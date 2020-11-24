@@ -1,0 +1,1396 @@
+<!DOCTYPE html>
+<!-- saved from url=(0069)https://site4.q10.com/EducacionVirtual/Cuestionario/353/441/Responder -->
+<html lang="es-CO" dir="ltr" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Cuestionarios</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Q10">
+    <meta name="author" content="Q10 Soluciones S.A.S.">
+    <meta name="version" content="1.0.0.0">
+    <meta name="accept-language" content="es-CO">
+    <link href="./Cuestionarios_files/main" rel="stylesheet">
+
+    <link href="./Cuestionarios_files/fontawesome" rel="stylesheet">
+
+    <link href="./Cuestionarios_files/bootstrap-select" rel="stylesheet">
+
+    <link href="./Cuestionarios_files/selectize" rel="stylesheet">
+
+    <link href="./Cuestionarios_files/datetimepicker" rel="stylesheet">
+
+    <link href="./Cuestionarios_files/jqueryfileupload" rel="stylesheet">
+
+    <link href="./Cuestionarios_files/sweet-alert" rel="stylesheet">
+
+    <link href="./Cuestionarios_files/jqueryfancybox" rel="stylesheet">
+
+    <link href="./Cuestionarios_files/bootstrap-slider" rel="stylesheet">
+
+    <link href="./Cuestionarios_files/capturaFoto" rel="stylesheet">
+
+    <link href="./Cuestionarios_files/tour" rel="stylesheet">
+
+
+    <style>
+            footer,.q10navbar,.q10button.btn-primary,.modal-header,.popover-title,.q10color-entidad {
+                background-color: #07bc07 ;
+            }
+            .q10button.btn-primary {
+                border-color: #059605 ;
+            }
+            .q10button.btn-primary:hover,.q10button.btn-primary:focus {
+                background-color: #38C938 ;
+            }
+            .q10navbar .navbar-nav .open > a, .q10navbar .navbar-nav .open > a:hover, .q10navbar .navbar-nav .open > a:focus,.q10navbar .navbar-nav > li > a:hover {
+                background-color: #38C938 !important;
+            }
+
+            @media (max-width: 767px) {
+                .q10navbar .navbar-nav .open .dropdown-menu .divider {
+                    background-color: #059605 !important;
+                }
+                .search-form {
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    width: 100%;
+                }
+            }
+
+            .slider-selection {
+                background: #38C938 !important;
+            }
+
+            .open > .dropdown-toggle.btn-primary.q10button  {
+                color: #fff;
+                background-color: #38C938;
+                border-color: #38C938;
+            }
+
+            .sweet-alert {
+                padding-bottom: 24px;
+            }
+
+            .sweet-alert h2{
+                margin-top: 5px !important;
+            }
+
+            .sweet-alert button.confirm  {
+                color: #fff;
+                background-color: #07bc07 !important;
+                border-color: #07bc07 !important;
+            }
+
+            .sweet-alert button.confirm:hover  {
+                color: #fff;
+                background-color: #38C938 !important;
+                border-color: #38C938 !important;
+            }
+
+            .popover.tour .popover-close {
+                color: #38C938 !important;
+            }
+
+            .popover.tour .popover-navigation .btn {
+                border-color: #38C938 !important;
+                background-color: #38C938 !important;
+            }
+    </style>
+    <link href="./Cuestionarios_files/notifications" rel="stylesheet">
+
+
+    
+
+    <script async="" src="./Cuestionarios_files/analytics.js.descarga"></script><script async="" charset="utf-8" src="./Cuestionarios_files/saved_resource" type="text/javascript"></script><script>
+        window.$zopim || (function (d, s) {
+            var z = $zopim = function (c) { z._.push(c) }, $ = z.s =
+                d.createElement(s), e = d.getElementsByTagName(s)[0]; z.set = function (o) {
+                    z.set.
+                        _.push(o)
+                }; z._ = []; z.set._ = []; $.async = !0; $.setAttribute("charset", "utf-8");
+            $.src = "https://v2.zopim.com/?" + "2shoD741JplfSvZObyvxr1blMeuDhj3E"; z.t = +new Date; $.
+                type = "text/javascript"; e.parentNode.insertBefore($, e)
+        })(document, "script");
+    </script>
+
+            <script async="async" src="./Cuestionarios_files/gpt.js.descarga"></script>
+            <script>
+                var googletag = googletag || {};
+                googletag.cmd = googletag.cmd || [];
+            </script>
+            <script>
+                googletag.cmd.push(function () {
+            googletag.defineSlot('/6622005/Jack_Estudiantes', [160, 600], 'div-gpt-ad-1552496341866-0').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+            </script>
+
+    
+
+    <style>
+        .title-cuestionario {
+            text-align: center;
+            margin-top: 25px;
+            margin-bottom: 35px;
+        }
+    </style>
+
+
+
+
+
+    
+    <link href="https://site4.q10.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <style>
+        #link-masker {
+            position: absolute;
+            z-index: 99999;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+        }
+    </style>
+<script src="./Cuestionarios_files/pubads_impl_2020111801.js.descarga" async=""></script><style type="text/css"></style><style type="text/css">.jwplayer,.jwplayer.jw-flag-aspect-mode .jw-aspect{display:block}.jw-media,.jwplayer{overflow:hidden}.jw-media.jw-media-show,.jw-preview{visibility:visible;opacity:1}.jw-reset{color:inherit;background-color:transparent;padding:0;margin:0;float:none;font-family:Arial,Helvetica,sans-serif;font-size:1em;line-height:1em;list-style:none;text-align:left;vertical-align:baseline;border:0;direction:ltr;font-variant:inherit;font-stretch:inherit;-webkit-tap-highlight-color:rgba(255,255,255,0)}@font-face{font-family:'jw-icons';src:url(jw-icons.eot);font-weight:400;font-style:normal}@font-face{font-family:'jw-icons';src:url(jw-icons.eot) format('embedded-opentype'),url(data:application/font-woff;base64,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) format('woff'),url(data:application/octet-stream;base64,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) format('truetype'),url(jw-icons.svg) format('svg');font-weight:400;font-style:normal}.jw-controlbar .jw-menu .jw-option:before,.jw-icon-display,.jw-icon-inline,.jw-icon-tooltip{font-family:'jw-icons';-webkit-font-smoothing:antialiased;font-style:normal;font-weight:400;text-transform:none;background-color:transparent;font-variant:normal;-webkit-font-feature-settings:"liga";-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga";font-feature-settings:"liga";-moz-osx-font-smoothing:grayscale}.jw-text,.jwplayer{font-family:Arial,Helvetica,sans-serif}.jw-icon-audio-tracks:before{content:"\e600"}.jw-icon-buffer:before{content:"\e601"}.jw-icon-cast:before{content:"\e603"}.jw-icon-cast.jw-off:before{content:"\e602"}.jw-icon-cc:before{content:"\e605"}.jw-icon-cue:before,.jw-icon-menu-bullet:before{content:"\e606"}.jw-icon-error:before{content:"\e607"}.jw-icon-fullscreen:before{content:"\e608"}.jw-icon-fullscreen.jw-off:before{content:"\e613"}.jw-icon-hd:before{content:"\e60a"}.jw-rightlick-logo:before{content:"\e60b"}.jw-icon-next:before{content:"\e60c"}.jw-icon-pause:before{content:"\e60d"}.jw-icon-play:before{content:"\e60e"}.jw-icon-prev:before{content:"\e60f"}.jw-icon-replay:before{content:"\e610"}.jw-icon-volume:before{content:"\e612"}.jw-icon-volume.jw-off:before{content:"\e611"}.jw-icon-more:before{content:"\e614"}.jw-icon-close:before{content:"\e615"}.jw-icon-playlist:before{content:"\e616"}.jwplayer{width:100%;font-size:16px;position:relative;min-height:0;box-sizing:border-box;background-color:#000;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.jwplayer *{box-sizing:inherit}.jwplayer.jw-flag-aspect-mode{height:auto!important}.jw-controls,.jw-media,.jw-media video,.jw-overlays,.jw-preview{right:0;left:0;bottom:0;position:absolute;top:0;width:100%;height:100%}.jw-controls.jw-controls-disabled,.jw-instream,.jw-preview,.jwplayer .jw-aspect{display:none}.jwplayer .jw-swf,.jwplayer:focus{outline:0}.jwplayer:hover .jw-display-icon-container{background:#333;background-size:#333}.jw-media video{margin:auto;background:0 0}.jw-media video::-webkit-media-controls-start-playback-button{display:none}.jw-controls .jw-controls-right{position:absolute;top:0;right:0}.jw-text{height:1em;font-size:.75em;font-style:normal;font-weight:400;color:#fff;text-align:center;font-variant:normal;font-stretch:normal}.jw-cast-screen,.jw-click,.jw-preview{width:100%;height:100%}.jw-plugin{position:absolute}.jw-instream{position:absolute;top:0;right:0;bottom:0;left:0}.jw-icon-playback:before{content:"\e60e"}.jw-tab-focus:focus{outline:#0b7ef4 solid 2px}.jw-captions,.jw-controls,.jw-overlays,.jw-preview,.jw-title{pointer-events:none}.jw-controlbar,.jw-display-icon-container,.jw-dock,.jw-logo,.jw-media,.jw-overlays>div,.jw-skip{pointer-events:all}.jw-click{position:absolute}.jw-preview{position:absolute;background:50% 50% no-repeat #000}.jw-error .jw-preview,.jw-stretch-uniform .jw-preview,.jwplayer .jw-preview{background-size:contain}.jw-stretch-none .jw-preview{background-size:auto auto}.jw-stretch-fill .jw-preview{background-size:cover}.jw-stretch-exactfit .jw-preview{background-size:100% 100%}.jw-display-icon-container{position:relative;top:50%;display:table;height:3.5em;margin-top:-1.75em;margin-right:auto;margin-left:auto;cursor:pointer}.jw-display-icon-container .jw-icon-display{position:relative;display:table-cell;padding:.25em;vertical-align:middle!important;background-position:50% 50%;background-repeat:no-repeat;font-size:2em}.jw-flag-audio-player .jw-display-icon-container,.jw-flag-dragging .jw-display-icon-container{display:none}.jw-icon{font-family:'jw-icons';font-weight:400;background-color:transparent;font-feature-settings:"liga";-moz-osx-font-smoothing:grayscale}.jw-icon,.jwplayer.jw-state-error .jw-icon-display,body .jw-error .jw-icon-display{-webkit-font-smoothing:antialiased;font-style:normal;text-transform:none;font-variant:normal;-webkit-font-feature-settings:"liga";-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga"}.jw-controlbar{display:table;position:absolute;right:0;left:0;bottom:0;height:2em;padding:0 .25em}.jw-controlbar .jw-hidden{display:none}.jw-background-color{background-color:#414040}.jw-group{display:table-cell}.jw-controlbar-center-group{width:100%;padding:0 .25em}.jw-controlbar-center-group .jw-slider-time,.jw-controlbar-center-group .jw-text-alt{padding:0}.jw-controlbar-center-group .jw-text-alt{display:none}.jw-controlbar-left-group,.jw-controlbar-right-group{white-space:nowrap}.jw-icon-display:hover,.jw-icon-inline:hover,.jw-icon-tooltip:hover,.jw-knob:hover,.jw-option:before:hover{color:#eee}.jw-icon-inline,.jw-icon-tooltip,.jw-slider-horizontal,.jw-text-duration,.jw-text-elapsed{display:inline-block;height:2em;position:relative;line-height:2em;vertical-align:middle;cursor:pointer}.jw-icon-inline,.jw-icon-tooltip{min-width:1.25em;text-align:center}.jw-icon-playback{min-width:2.25em}.jw-icon-volume{min-width:1.75em;text-align:left}.jw-time-tip{line-height:1em}.jw-icon-inline:after,.jw-icon-tooltip:after{width:100%;height:100%;font-size:1em}.jw-cast{display:none}.jw-cast.jw-can-cast{display:inline-block}.jw-icon-inline.jw-icon-volume,.jw-slider-volume.jw-slider-horizontal{display:none}.jw-dock{margin:.75em;display:block;opacity:1;clear:right}.jw-dock:after{content:'';clear:both;display:block}.jw-dock-button{cursor:pointer;float:right;position:relative;width:2.5em;height:2.5em;margin:.5em}.jw-dock-button .jw-arrow{display:none;position:absolute;bottom:-.2em;width:.5em;height:.2em;left:50%;margin-left:-.25em}.jw-dock-button .jw-overlay{display:none;position:absolute;top:2.5em;right:0;margin-top:.25em;padding:.5em;white-space:nowrap}.jw-dock-button:hover .jw-arrow,.jw-dock-button:hover .jw-overlay{display:block}.jw-dock-image{width:100%;height:100%;background-position:50% 50%;background-repeat:no-repeat;opacity:.75}.jw-title{display:none;position:absolute;top:0;width:100%;font-size:.875em;height:8em;background:-webkit-linear-gradient(top,#000 0,#000 18%,rgba(0,0,0,0) 100%);background:linear-gradient(to bottom,#000 0,#000 18%,rgba(0,0,0,0) 100%)}.jw-title-primary,.jw-title-secondary{padding:.75em 1.5em;width:75%;color:#fff;white-space:nowrap;text-overflow:ellipsis;overflow-x:hidden}.jw-title-primary{font-weight:700}.jw-title-secondary{margin-top:-.5em}.jw-slider-container{display:inline-block;height:1em;position:relative}.jw-captions,.jw-slider-volume .jw-buffer{display:none}.jw-buffer,.jw-progress,.jw-rail{position:absolute;cursor:pointer}.jw-progress{background-color:#fff}.jw-rail{background-color:#aaa}.jw-buffer{background-color:#202020}.jw-cue,.jw-knob{position:absolute;cursor:pointer}.jw-cue{background-color:#fff;width:.1em;height:.4em}.jw-knob{background-color:#aaa;width:.4em;height:.4em}.jw-slider-horizontal{width:4em;height:1em}.jw-slider-horizontal.jw-slider-volume{margin-right:5px}.jw-slider-horizontal .jw-buffer,.jw-slider-horizontal .jw-progress,.jw-slider-horizontal .jw-rail{width:100%;height:.4em}.jw-slider-horizontal .jw-buffer,.jw-slider-horizontal .jw-progress{width:0}.jw-slider-horizontal .jw-progress,.jw-slider-horizontal .jw-rail,.jw-slider-horizontal .jw-slider-container{width:100%}.jw-slider-horizontal .jw-knob{left:0;margin-left:-.325em}.jw-slider-vertical{width:.75em;height:4em;bottom:0;position:absolute;padding:1em}.jw-slider-vertical .jw-buffer,.jw-slider-vertical .jw-progress,.jw-slider-vertical .jw-rail{bottom:0;height:100%}.jw-slider-vertical .jw-buffer,.jw-slider-vertical .jw-progress{height:0}.jw-slider-vertical .jw-progress,.jw-slider-vertical .jw-rail,.jw-slider-vertical .jw-slider-container{bottom:0;width:.75em;height:100%;left:0;right:0;margin:0 auto}.jw-slider-vertical .jw-slider-container{height:4em;position:relative}.jw-captions,.jw-overlay:after,.jw-rightclick,.jw-tooltip-time{position:absolute}.jw-slider-vertical .jw-knob{bottom:0;left:0;right:0;margin:0 auto}.jw-slider-time{right:0;left:0;width:100%}.jw-captions{margin:0 auto;width:100%;left:0;bottom:1.75em;right:0;max-width:90%;text-align:center}.jw-captions.jw-captions-enabled{display:block}.jw-captions-window{display:none;padding:.25em;border-radius:.25em}.jw-captions-text,.jw-captions-window.jw-captions-window-active{display:inline-block}.jw-captions-text{color:#fff;background-color:#000;word-wrap:break-word;white-space:pre-line;font-style:normal;font-weight:400;text-align:center;text-decoration:none;line-height:1.3em;padding:.1em .8em}.jw-rightclick{display:none;white-space:nowrap}.jw-rightclick.jw-open{display:block}.jw-rightclick ul{list-style:none;font-weight:700;border-radius:.15em;margin:0;border:1px solid #d9dde6;padding-left:0}.jw-rightclick .jw-rightlick-logo{font-size:2em;color:#ff0147;vertical-align:middle;padding-right:.3em;margin-right:.3em;border-right:1px solid #d9dde6}.jw-rightclick a{color:#000;text-decoration:none;padding:1em;display:block;font-size:.6875em}.jw-icon-tooltip.jw-hidden,.jw-logo .jw-flag-audio-player{display:none}.jw-rightclick li{background-color:#f2f3f6;border-bottom:1px solid #d9dde6}.jw-rightclick li:last-child{border-bottom:none}.jw-rightclick li.jw-featured:hover,.jw-rightclick li:hover a{background-color:#e4e6ed;cursor:pointer;color:#ff0046}.jw-rightclick li.jw-featured{background-color:#fff;vertical-align:middle}.jw-rightclick li.jw-featured a{color:#aab4c8}.jw-logo{float:right;padding:.75em;cursor:pointer}.jw-icon-tooltip.jw-open .jw-overlay{opacity:1;visibility:visible}.jw-flag-audio-player .jw-media,.jw-skip.jw-hidden{visibility:hidden}.jw-overlay:after{bottom:-.5em;left:-50%;width:100%;height:15%;background-color:transparent;content:" "}.jw-menu,.jw-time-tip,.jw-volume-tip{position:relative;left:-50%;border:1px solid #000;margin:0}.jw-volume-tip{width:100%;height:100%;display:block}.jw-time-tip{text-align:center;font-family:inherit;color:#aaa;bottom:1em;border:4px solid #000}.jw-time-tip .jw-text{line-height:1em}.jw-controlbar .jw-overlay{margin:0;position:absolute;bottom:2em;left:50%;opacity:0;visibility:hidden}.jw-controlbar .jw-overlay .jw-contents{position:relative}.jw-controlbar .jw-option{position:relative;white-space:nowrap;cursor:pointer;list-style:none;height:1.5em;font-family:inherit;line-height:1.5em;color:#aaa;padding:0 .5em;font-size:.8em}.jw-controlbar .jw-option:before:hover,.jw-controlbar .jw-option:hover{color:#eee}.jw-controlbar .jw-option:before{padding-right:.125em}.jw-playlist-container ::-webkit-scrollbar-track{background-color:#333;border-radius:10px}.jw-playlist-container ::-webkit-scrollbar{width:5px;border:10px solid #000;border-bottom:0;border-top:0}.jw-playlist-container ::-webkit-scrollbar-thumb{background-color:#fff;border-radius:5px}.jw-tooltip-title{border-bottom:1px solid #444;text-align:left;padding-left:.7em}.jw-playlist{max-height:11em;min-height:4.5em;overflow-y:scroll;width:calc(100% - 4px)}.jw-playlist .jw-option{height:3em;margin-right:5px;color:#fff;padding-left:1em;font-size:.8em}.jw-playlist .jw-label,.jw-playlist .jw-name{display:inline-block;line-height:3em;text-align:left;overflow:hidden;white-space:nowrap}.jw-playlist .jw-label{width:1em}.jw-playlist .jw-name{width:11em}.jw-skip{cursor:default;position:absolute;float:right;display:inline-block;right:.75em;bottom:3em}.jw-skip.jw-skippable,.jw-skip.jw-skippable:hover{cursor:pointer}.jw-skip .jw-skip-icon{display:none;margin-left:-.75em}.jw-skip .jw-skip-icon:before{content:"\e60c"}.jw-skip .jw-skip-icon,.jw-skip .jw-text{color:#aaa;vertical-align:middle}.jw-skip.jw-skippable:hover .jw-skip-icon,.jw-skip.jw-skippable:hover .jw-text{color:#eee}.jw-skip.jw-skippable .jw-skip-icon{display:inline;margin:0}.jwplayer.jw-state-idle .jw-preview{display:block}.jwplayer.jw-state-idle .jw-icon-display:before{content:"\e60e"}.jwplayer.jw-state-idle .jw-captions,.jwplayer.jw-state-idle .jw-controlbar{display:none}.jwplayer.jw-state-idle .jw-title{display:block}.jwplayer.jw-state-buffering .jw-display-icon-container .jw-text,.jwplayer.jw-state-paused .jw-display-icon-container,.jwplayer.jw-state-playing .jw-display-icon-container{display:none}.jwplayer.jw-state-playing .jw-icon-playback:before{content:"\e60d"}.jwplayer.jw-state-paused .jw-icon-playback:before{content:"\e60e"}.jwplayer.jw-state-buffering .jw-display-icon-container .jw-icon-display{-webkit-animation:spin 2s linear infinite;animation:spin 2s linear infinite}.jwplayer.jw-state-buffering .jw-display-icon-container .jw-icon-display:before{content:"\e601"}@-webkit-keyframes spin{100%{-webkit-transform:rotate(360deg)}}@keyframes spin{100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.jwplayer.jw-state-buffering .jw-icon-playback:before{content:"\e60d"}.jwplayer.jw-state-complete .jw-preview{display:block}.jwplayer.jw-state-complete .jw-captions,.jwplayer.jw-state-complete .jw-display-icon-container .jw-text{display:none}.jwplayer.jw-state-complete .jw-display-icon-container .jw-icon-display:before{content:"\e610"}.jwplayer.jw-state-complete .jw-icon-playback:before{content:"\e60e"}.jwplayer.jw-state-error .jw-preview,.jwplayer.jw-state-error .jw-title,body .jw-error .jw-preview,body .jw-error .jw-title{display:block}.jwplayer.jw-state-error .jw-title .jw-title-primary,body .jw-error .jw-title .jw-title-primary{white-space:normal}.jwplayer.jw-state-error .jw-captions,.jwplayer.jw-state-error .jw-controlbar,body .jw-error .jw-captions,body .jw-error .jw-controlbar{display:none}.jwplayer.jw-state-error:hover .jw-display-icon-container,body .jw-error:hover .jw-display-icon-container{cursor:default;color:#fff;background:#000}.jwplayer.jw-state-error .jw-icon-display,body .jw-error .jw-icon-display{cursor:default;font-family:'jw-icons';font-weight:400;background-color:transparent;font-feature-settings:"liga";-moz-osx-font-smoothing:grayscale}.jwplayer.jw-state-error .jw-icon-display:before,body .jw-error .jw-icon-display:before{content:"\e607"}.jwplayer.jw-state-error .jw-icon-display:hover,body .jw-error .jw-icon-display:hover{color:#fff}body .jw-error{font-size:16px;background-color:#000;color:#eee;width:100%;height:100%;display:table;opacity:1;position:relative}.jwplayer.jw-flag-live .jw-controlbar .jw-slider-time,.jwplayer.jw-flag-live .jw-controlbar .jw-text-duration,.jwplayer.jw-flag-live .jw-controlbar .jw-text-elapsed,.jwplayer.jw-flag-skin-loading .jw-captions,.jwplayer.jw-flag-skin-loading .jw-controls,.jwplayer.jw-flag-skin-loading .jw-title{display:none}body .jw-error .jw-icon-container{position:absolute;width:100%;height:100%;top:0;left:0;bottom:0;right:0}.jwplayer.jw-flag-fullscreen{width:100%!important;height:100%!important;top:0;right:0;bottom:0;left:0;z-index:1000;margin:0;position:fixed}.jwplayer.jw-flag-fullscreen.jw-flag-user-inactive{cursor:none;-webkit-cursor-visibility:auto-hide}.jwplayer.jw-flag-live .jw-controlbar .jw-text-alt{display:inline}.jw-flag-user-inactive.jw-state-playing .jw-controlbar,.jw-flag-user-inactive.jw-state-playing .jw-dock,.jw-flag-user-inactive.jw-state-playing .jw-logo.jw-hide{display:none}.jw-flag-audio-player{background-color:transparent}.jw-flag-audio-player .jw-controlbar{display:table;bottom:0;margin:0;width:100%;min-width:100%;opacity:1}.jw-flag-audio-player .jw-controlbar .jw-icon-fullscreen,.jw-flag-audio-player .jw-controlbar .jw-icon-tooltip{display:none}.jw-flag-audio-player .jw-controlbar .jw-icon-inline.jw-icon-volume,.jw-flag-audio-player .jw-controlbar .jw-slider-volume.jw-slider-horizontal{display:inline-block}.jw-flag-audio-player .jw-controlbar .jw-icon-tooltip.jw-icon-volume{display:none}.jwplayer.jw-flag-audio-player .jw-controlbar{display:table;height:auto}.jwplayer.jw-flag-audio-player .jw-preview{display:none}.jwplayer.jw-flag-media-audio .jw-controlbar{display:table}.jwplayer.jw-flag-ads .jw-controlbar .jw-icon-inline,.jwplayer.jw-flag-ads .jw-controlbar .jw-icon-tooltip,.jwplayer.jw-flag-ads .jw-controlbar .jw-slider-horizontal,.jwplayer.jw-flag-ads .jw-controlbar .jw-text,.jwplayer.jw-flag-ads .jw-preview{display:none}.jwplayer.jw-flag-ads .jw-controlbar .jw-icon-fullscreen,.jwplayer.jw-flag-ads .jw-controlbar .jw-icon-playback,.jwplayer.jw-flag-ads .jw-controlbar .jw-icon-volume,.jwplayer.jw-flag-ads .jw-controlbar .jw-slider-volume{display:inline-block}.jwplayer.jw-flag-ads .jw-controlbar .jw-text-alt{display:inline}.jwplayer.jw-flag-ads .jw-controlbar .jw-icon-inline.jw-icon-volume,.jwplayer.jw-flag-ads .jw-controlbar .jw-slider-volume.jw-slider-horizontal{display:inline-block}.jwplayer.jw-flag-ads .jw-controlbar .jw-icon-tooltip.jw-icon-volume{display:none}.jwplayer.jw-flag-ads-hide-controls .jw-controls{display:none!important}.jwplayer.jw-flag-ads.jw-flag-touch-screen .jw-controlbar{display:table}.jwplayer.jw-flag-rightclick-open{overflow:visible}.jwplayer.jw-flag-rightclick-open .jw-rightclick{z-index:16777215}.jw-skin-beelden .jw-background-color{background:rgba(0,0,0,.5)}.jw-skin-beelden .jw-controlbar{background:-webkit-linear-gradient(top,#6c6c6c 0,#444 100%);background:linear-gradient(to bottom,#6c6c6c 0,#444 100%)}.jw-skin-beelden .jw-button-color,.jw-skin-beelden .jw-knob,.jw-skin-beelden .jw-text,.jw-skin-beelden .jw-tooltip-title{color:#c7c7c7}.jw-skin-beelden .jw-button-color:hover{color:#fff}.jw-skin-beelden .jw-option,.jw-skin-beelden .jw-toggle.jw-off{color:#c7c7c7}.jw-skin-beelden .jw-option.jw-active-option{color:#fff}.jw-skin-beelden .jw-icon-display{color:#c7c7c7}.jw-skin-beelden .jw-display-icon-container{border-radius:.5em;padding:.5em .75em}.jw-skin-beelden .jw-display-icon-container:hover{background:#6c6c6c}.jw-skin-beelden .jw-display-icon-container:hover .jw-icon-display{color:#fff}.jw-skin-beelden .jw-rail{background:-webkit-linear-gradient(top,#353535 0,#434343 100%);background:linear-gradient(to bottom,#353535 0,#434343 100%)}.jw-skin-beelden .jw-buffer{background:-webkit-linear-gradient(top,#7d7d7d 0,#868686 100%);background:linear-gradient(to bottom,#7d7d7d 0,#868686 100%)}.jw-skin-beelden .jw-progress{background:-webkit-linear-gradient(top,#c93835 0,#b22021 50%,#803637 100%);background:linear-gradient(to bottom,#c93835 0,#b22021 50%,#803637 100%)}.jw-skin-beelden .jw-slider-horizontal .jw-knob{margin-left:-.325em}.jw-skin-beelden .jw-slider-vertical .jw-knob{margin-bottom:-.325em}.jw-skin-beelden .jw-menu,.jw-skin-beelden .jw-time-tip,.jw-skin-beelden .jw-volume-tip{background:rgba(0,0,0,.5);border:1px solid #000;padding:.4em}.jw-skin-beelden .jw-dock-button .jw-text,.jw-skin-beelden .jw-time-tip .jw-text{color:#bbb}.jw-skin-beelden .jw-time-tip{bottom:1em}.jw-skin-beelden .jw-dock-button{background:rgba(0,0,0,.5);border-radius:.5em}.jw-skin-beelden .jw-dock-button:hover{background:#6c6c6c}.jw-skin-beelden .jw-playlist-container{padding:0}.jw-skin-beelden .jw-icon-inline,.jw-skin-beelden .jw-icon-tooltip,.jw-skin-beelden .jw-text-duration,.jw-skin-beelden .jw-text-elapsed{padding:0 .25em}.jw-skin-beelden .jw-controlbar{display:block;margin:0 auto;max-width:96%;bottom:.7em;box-shadow:inset 0 7px 1px -5px grey;border-radius:.3em}.jw-skin-beelden.jw-flag-audio-player .jw-controlbar{bottom:0}.jw-skin-beelden .jw-icon-playback{padding-left:0}.jw-skin-beelden .jw-icon-playback:before{background-color:#333;background:-webkit-linear-gradient(top,#333,#333 50%,#2e2e2e 50%,#2e2e2e);background:linear-gradient(to bottom,#333,#333 50%,#2e2e2e 50%,#2e2e2e);background-size:100% 2px;border-radius:.3em;padding:.2em .7em;box-shadow:inset 0 0 1px 0 rgba(0,0,0,.6);border:1px solid #000;box-sizing:border-box}.jw-skin-beelden.jw-state-playing .jw-icon-playback:before{padding-right:.8em}.jw-skin-beelden .jw-playlist-container{left:-45%;background-color:#282828;bottom:.5em}.jw-skin-beelden .jw-playlist-container .jw-option{border-bottom:1px solid #000;background-color:#282828;color:#b6b6b6}.jw-skin-beelden .jw-playlist-container .jw-option.jw-active-option,.jw-skin-beelden .jw-playlist-container .jw-option:hover{color:#c93835;background-color:#000}.jw-skin-beelden .jw-playlist-container ::-webkit-scrollbar-track{background-color:#000}.jw-skin-beelden .jw-playlist-container ::-webkit-scrollbar{border:10px solid #282828;border-radius:.25em}.jw-skin-beelden .jw-playlist-container ::-webkit-scrollbar-thumb{background-color:#b6b6b6}.jw-skin-beelden .jw-tooltip-title{border-bottom:1px solid #000;background-color:#282828}.jw-skin-beelden .jw-buffer,.jw-skin-beelden .jw-progress,.jw-skin-beelden .jw-rail{border-radius:.5em;border:1px solid #000}.jw-skin-beelden .jw-rail{background-color:#353535}.jw-skin-beelden .jw-progress{background-color:#c93835}.jw-skin-beelden .jw-buffer{background-color:#7d7d7d;box-shadow:inset 0 -2px 4px -1px rgba(255,255,255,.5)}.jw-skin-beelden .jw-knob{background-color:#bbb5b7;box-shadow:inset 0 0 5px 0 rgba(255,255,255,.5);border:1px solid #000;border-radius:50%}.jw-skin-beelden .jw-slider-horizontal{background:0 0}.jw-skin-beelden .jw-slider-horizontal .jw-slider-container{top:-.75em;height:.4em}.jw-skin-beelden .jw-slider-horizontal .jw-buffer,.jw-skin-beelden .jw-slider-horizontal .jw-progress,.jw-skin-beelden .jw-slider-horizontal .jw-rail{height:.5em}.jw-skin-beelden .jw-slider-horizontal .jw-cue{top:.15em;background-color:#fff;width:.2em;height:.2em;border-radius:1em}.jw-skin-beelden .jw-slider-horizontal .jw-knob{top:-.15em;box-sizing:border-box;width:.8em;height:.8em}.jw-skin-beelden .jw-slider-vertical{bottom:5px}.jw-skin-beelden .jw-slider-vertical .jw-progress,.jw-skin-beelden .jw-slider-vertical .jw-rail{width:.4em}.jw-skin-beelden .jw-slider-vertical .jw-rail{background:rgba(0,0,0,.5)}.jw-skin-beelden .jw-slider-vertical .jw-progress{background:-webkit-linear-gradient(left,#c93835 0,#b22021 50%,#803637 100%);background:linear-gradient(to right,#c93835 0,#b22021 50%,#803637 100%)}.jw-skin-beelden .jw-slider-vertical .jw-knob{width:.7em;height:.7em}.jw-skin-beelden .jw-display-icon-container{border:1px solid #000;box-shadow:inset 0 0 2px 1px rgba(255,255,255,.3)}.jw-skin-beelden .jw-dock-button,.jw-skin-beelden .jw-menu,.jw-skin-beelden .jw-time-tip,.jw-skin-beelden .jw-volume-tip{border-radius:.25em}.jw-skin-beelden .jw-toggle{color:#fff}.jw-skin-beelden .jw-toggle.jw-off{color:#7d7d7d}.jw-skin-bekle .jw-background-color{background:-webkit-linear-gradient(top,#323b4c,#2f3847 50%,#323b4c 100%);background:linear-gradient(to bottom,#323b4c,#2f3847 50%,#323b4c 100%)}.jw-skin-bekle .jw-controlbar{background:rgba(24,35,53,.8)}.jw-skin-bekle .jw-button-color,.jw-skin-bekle .jw-knob,.jw-skin-bekle .jw-text,.jw-skin-bekle .jw-tooltip-title{color:#fff}.jw-skin-bekle .jw-button-color:hover,.jw-skin-bekle .jw-toggle{color:#139ed5}.jw-skin-bekle .jw-option,.jw-skin-bekle .jw-toggle.jw-off{color:#fff}.jw-skin-bekle .jw-option.jw-active-option{color:#139ed5}.jw-skin-bekle .jw-display-icon-container:hover .jw-icon-display,.jw-skin-bekle .jw-icon-display{color:#fff}.jw-skin-bekle .jw-display-icon-container{border-radius:.5em;padding:.5em .75em}.jw-skin-bekle .jw-display-icon-container:hover{background:#139ed5}.jw-skin-bekle .jw-rail{background:-webkit-linear-gradient(top,#323b4c,#2f3847 50%,#323b4c 100%);background:linear-gradient(to bottom,#323b4c,#2f3847 50%,#323b4c 100%)}.jw-skin-bekle .jw-buffer{background:-webkit-linear-gradient(top,#5e6575,#565e6b 50%,#5e6575 100%);background:linear-gradient(to bottom,#5e6575,#565e6b 50%,#5e6575 100%)}.jw-skin-bekle .jw-progress{background:-webkit-linear-gradient(top,#15b2f0,#149bd1 50%,#15b2f0 100%);background:linear-gradient(to bottom,#15b2f0,#149bd1 50%,#15b2f0 100%)}.jw-skin-bekle .jw-slider-horizontal .jw-knob{margin-left:-.325em}.jw-skin-bekle .jw-slider-vertical .jw-knob{margin-bottom:-.325em}.jw-skin-bekle .jw-menu,.jw-skin-bekle .jw-time-tip,.jw-skin-bekle .jw-volume-tip{background:rgba(80,88,99,.9);border:0;padding:.5em}.jw-skin-bekle .jw-dock-button .jw-text,.jw-skin-bekle .jw-time-tip .jw-text{color:#bbb}.jw-skin-bekle .jw-time-tip{bottom:1em}.jw-skin-bekle .jw-dock-button{background:-webkit-linear-gradient(top,#323b4c,#2f3847 50%,#323b4c 100%);background:linear-gradient(to bottom,#323b4c,#2f3847 50%,#323b4c 100%);border-radius:.5em}.jw-skin-bekle .jw-dock-button:hover{background:#139ed5}.jw-skin-bekle .jw-playlist-container{padding:0}.jw-skin-bekle .jw-icon-inline,.jw-skin-bekle .jw-icon-tooltip,.jw-skin-bekle .jw-text-duration,.jw-skin-bekle .jw-text-elapsed{padding:0 .25em}.jw-skin-bekle .jw-controlbar{display:block;margin:0 auto;max-width:96%;bottom:.7em;border-radius:.3em}.jw-skin-bekle.jw-flag-audio-player .jw-controlbar{bottom:0}.jw-skin-bekle .jw-playlist-container{left:-42%;overflow:hidden;bottom:.2em}.jw-skin-bekle .jw-playlist-container .jw-option{border-bottom:1px solid rgba(24,35,53,.8)}.jw-skin-bekle .jw-playlist-container .jw-option.jw-active-option,.jw-skin-bekle .jw-playlist-container .jw-option:hover{background-color:rgba(24,35,53,.8);color:#139ed5}.jw-skin-bekle .jw-playlist-container ::-webkit-scrollbar-track{background-color:#222c37}.jw-skin-bekle .jw-playlist-container ::-webkit-scrollbar{width:2px;border:10px solid rgba(24,35,53,.8);border-radius:.3em}.jw-skin-bekle .jw-playlist-container ::-webkit-scrollbar-thumb{background-color:#fff}.jw-skin-bekle .jw-tooltip-title{border-bottom:1px solid rgba(24,35,53,.8);background-color:rgba(24,35,53,.8)}.jw-skin-bekle .jw-slider-horizontal .jw-buffer,.jw-skin-bekle .jw-slider-horizontal .jw-progress,.jw-skin-bekle .jw-slider-horizontal .jw-rail,.jw-skin-bekle .jw-slider-vertical .jw-buffer,.jw-skin-bekle .jw-slider-vertical .jw-progress,.jw-skin-bekle .jw-slider-vertical .jw-rail{border-radius:.5em}.jw-skin-bekle .jw-slider-horizontal .jw-knob,.jw-skin-bekle .jw-slider-vertical .jw-knob{background-color:#fff;width:.7em;height:.7em;border-radius:50%}.jw-skin-bekle .jw-slider-horizontal{background:0 0}.jw-skin-bekle .jw-slider-horizontal .jw-buffer,.jw-skin-bekle .jw-slider-horizontal .jw-progress,.jw-skin-bekle .jw-slider-horizontal .jw-rail{height:.3em}.jw-skin-bekle .jw-slider-horizontal .jw-cue{top:.05em;background-color:#fff;width:.2em;height:.2em;border-radius:1em}.jw-skin-bekle .jw-slider-horizontal .jw-knob{top:-.2em}.jw-skin-bekle .jw-slider-vertical .jw-progress,.jw-skin-bekle .jw-slider-vertical .jw-rail{width:.3em}.jw-skin-bekle .jw-slider-vertical .jw-rail{background:-webkit-linear-gradient(left,#323b4c,#2f3847 50%,#323b4c 100%);background:linear-gradient(to right,#323b4c,#2f3847 50%,#323b4c 100%)}.jw-skin-bekle .jw-slider-vertical .jw-progress{background:-webkit-linear-gradient(left,#15b2f0,#149bd1 50%,#15b2f0 100%);background:linear-gradient(to right,#15b2f0,#149bd1 50%,#15b2f0 100%)}.jw-skin-bekle .jw-menu,.jw-skin-bekle .jw-time-tip,.jw-skin-bekle .jw-volume-tip{border-radius:.3em}.jw-skin-bekle .jw-menu,.jw-skin-bekle .jw-volume-tip{bottom:.2em}.jw-skin-five .jw-time-tip,.jw-skin-glow .jw-time-tip{bottom:1em}.jw-skin-five .jw-background-color{background:rgba(51,51,51,.7)}.jw-skin-five .jw-controlbar{background:rgba(238,238,238,.8)}.jw-skin-five .jw-button-color,.jw-skin-five .jw-knob,.jw-skin-five .jw-text,.jw-skin-five .jw-tooltip-title{color:#464646}.jw-skin-five .jw-button-color:hover,.jw-skin-five .jw-toggle{color:#000}.jw-skin-five .jw-option,.jw-skin-five .jw-toggle.jw-off{color:#464646}.jw-skin-five .jw-option.jw-active-option{color:#000}.jw-skin-five .jw-icon-display{color:rgba(238,238,238,.8)}.jw-skin-five .jw-display-icon-container{padding:.5em .75em}.jw-skin-five .jw-display-icon-container:hover{background:#333}.jw-skin-five .jw-display-icon-container:hover .jw-icon-display{color:#fff}.jw-skin-five .jw-dock-button .jw-text,.jw-skin-five .jw-option,.jw-skin-five .jw-time-tip .jw-text{color:#bbb}.jw-skin-five .jw-rail{background:#b8b6b7}.jw-skin-five .jw-buffer{background:#9c9a9d}.jw-skin-five .jw-progress{background:#000}.jw-skin-five .jw-menu,.jw-skin-five .jw-time-tip,.jw-skin-five .jw-volume-tip{background:#333;border:0;padding:.5em}.jw-skin-five .jw-dock-button{background:rgba(51,51,51,.7)}.jw-skin-five .jw-dock-button:hover{background:#333}.jw-skin-five .jw-playlist-container{padding:0;left:-42%;background-color:#fff}.jw-skin-five .jw-icon-inline,.jw-skin-five .jw-icon-tooltip,.jw-skin-five .jw-text-duration,.jw-skin-five .jw-text-elapsed{padding:0 .25em}.jw-skin-five .jw-display-icon-container{border-radius:0}.jw-skin-five .jw-option.jw-active-option,.jw-skin-five .jw-option:hover{color:#fff}.jw-skin-five .jw-playlist{width:calc(100% - 8px)}.jw-skin-five .jw-playlist-container .jw-option{border-bottom:1px solid #ececec;background-color:#fff;margin-right:8px;color:#464646}.jw-skin-five .jw-playlist-container .jw-option.jw-active-option,.jw-skin-five .jw-playlist-container .jw-option:hover{background-color:#ececec;color:#000}.jw-skin-five .jw-playlist-container .jw-label .jw-icon-play,.jw-skin-five .jw-playlist-container .jw-option:hover{color:#000}.jw-skin-glow .jw-button-color,.jw-skin-glow .jw-button-color:hover,.jw-skin-glow .jw-display-icon-container:hover .jw-icon-display,.jw-skin-glow .jw-icon-display,.jw-skin-glow .jw-knob,.jw-skin-glow .jw-option,.jw-skin-glow .jw-option.jw-active-option,.jw-skin-glow .jw-text,.jw-skin-glow .jw-toggle,.jw-skin-glow .jw-toggle.jw-off,.jw-skin-glow .jw-tooltip-title{color:#fff}.jw-skin-five .jw-playlist-container ::-webkit-scrollbar-track{background-color:#ececec}.jw-skin-five .jw-playlist-container ::-webkit-scrollbar{width:2px;border:10px solid #fff}.jw-skin-five .jw-playlist-container ::-webkit-scrollbar-thumb{background-color:#000}.jw-skin-five .jw-tooltip-title{border-bottom:1px solid #000;background-color:#ececec}.jw-skin-five .jw-slider-horizontal{background:0 0}.jw-skin-five .jw-slider-horizontal .jw-slider-container{height:.9em}.jw-skin-five .jw-slider-horizontal .jw-buffer,.jw-skin-five .jw-slider-horizontal .jw-progress,.jw-skin-five .jw-slider-horizontal .jw-rail{height:.2em;border-radius:0}.jw-skin-five .jw-slider-horizontal .jw-rail{box-shadow:none}.jw-skin-five .jw-slider-horizontal .jw-knob{top:-.4em;margin:0;background-color:#000;border-radius:0;width:1px;height:1em}.jw-skin-five .jw-slider-horizontal .jw-cue{top:-.1em;width:.1em;height:.4em;background-color:#000;border-left:1px solid #fff;border-right:1px solid #fff}.jw-skin-five .jw-slider-vertical .jw-progress,.jw-skin-five .jw-slider-vertical .jw-rail{width:.2em}.jw-skin-five .jw-slider-vertical .jw-progress{background:#fff}.jw-skin-five .jw-slider-vertical .jw-rail{background:#737373}.jw-skin-five .jw-slider-vertical .jw-knob{margin-bottom:-1px;background:-webkit-linear-gradient(top,#fff 0,#fff 30%,#333 100%);background:linear-gradient(to bottom,#fff 0,#fff 30%,#333 100%);border-radius:0;height:2px;width:100%}.jw-skin-five .jw-dock-button{border-radius:0}.jw-skin-glow .jw-background-color{background:#333}.jw-skin-glow .jw-controlbar{background:rgba(19,20,21,.8)}.jw-skin-glow .jw-display-icon-container{border-radius:.5em;padding:.5em .75em}.jw-skin-glow .jw-display-icon-container:hover{background:#4d4d4d}.jw-skin-glow .jw-rail{background:#2a2c2e}.jw-skin-glow .jw-buffer{background:#3b3d41}.jw-skin-glow .jw-progress{background:#fff}.jw-skin-glow .jw-slider-horizontal .jw-knob{margin-left:-.325em}.jw-skin-glow .jw-slider-vertical .jw-knob{margin-bottom:-.325em}.jw-skin-glow .jw-menu,.jw-skin-glow .jw-time-tip,.jw-skin-glow .jw-volume-tip{background:#333;border:0;padding:.5em}.jw-skin-glow .jw-dock-button .jw-text,.jw-skin-glow .jw-time-tip .jw-text{color:#bbb}.jw-skin-glow .jw-dock-button{background:#333;border-radius:.5em}.jw-skin-glow .jw-dock-button:hover{background:#4d4d4d}.jw-skin-glow .jw-playlist-container{padding:0}.jw-skin-glow .jw-icon-inline,.jw-skin-glow .jw-icon-tooltip,.jw-skin-glow .jw-text-duration,.jw-skin-glow .jw-text-elapsed{padding:0 .25em}.jw-skin-glow .jw-menu,.jw-skin-glow .jw-time-tip,.jw-skin-glow .jw-volume-tip{border-radius:.25em}.jw-skin-glow .jw-menu,.jw-skin-glow .jw-volume-tip{bottom:.3em}.jw-skin-glow .jw-playlist-container{left:-42%;bottom:0;border-radius:0}.jw-skin-glow .jw-playlist-container .jw-option{border-bottom:1px solid #000;color:#fff}.jw-skin-glow .jw-playlist-container .jw-option.jw-active-option,.jw-skin-glow .jw-playlist-container .jw-option:hover{background-color:rgba(19,20,21,.8);color:#fff}.jw-skin-glow .jw-playlist-container ::-webkit-scrollbar-track{background-color:#000}.jw-skin-glow .jw-playlist-container ::-webkit-scrollbar{border:10px solid #3b3d41}.jw-skin-glow .jw-playlist-container ::-webkit-scrollbar-thumb{background-color:#fff}.jw-skin-glow .jw-tooltip-title{border-bottom:1px solid #000;background-color:#3b3d41}.jw-skin-glow .jw-buffer,.jw-skin-glow .jw-progress,.jw-skin-glow .jw-rail{border-radius:.5em}.jw-skin-glow .jw-knob{display:none}.jw-skin-glow .jw-slider-horizontal{background:0 0}.jw-skin-glow .jw-slider-horizontal .jw-cue{top:.075em;background-color:#000;width:.25em;height:.25em;border-radius:1em}.jw-skin-glow .jw-slider-vertical{bottom:5px}.jw-skin-glow .jw-slider-vertical .jw-rail{background-color:#141516}.jw-skin-glow .jw-slider-vertical .jw-progress,.jw-skin-glow .jw-slider-vertical .jw-rail{width:.4em}.jw-skin-roundster .jw-background-color{background:#8490a0}.jw-skin-roundster .jw-controlbar{background:#dfe2e9}.jw-skin-roundster .jw-button-color,.jw-skin-roundster .jw-knob,.jw-skin-roundster .jw-text,.jw-skin-roundster .jw-tooltip-title{color:#8490a0}.jw-skin-roundster .jw-button-color:hover,.jw-skin-roundster .jw-toggle{color:#f15173}.jw-skin-roundster .jw-option,.jw-skin-roundster .jw-toggle.jw-off{color:#8490a0}.jw-skin-roundster .jw-option.jw-active-option{color:#f15173}.jw-skin-roundster .jw-icon-display{color:rgba(255,255,255,.5)}.jw-skin-roundster .jw-display-icon-container{border-radius:.5em;padding:.5em .75em}.jw-skin-roundster .jw-display-icon-container:hover{background:#f15173}.jw-skin-roundster .jw-display-icon-container:hover .jw-icon-display{color:#fff}.jw-skin-roundster .jw-rail{background:#878fa2}.jw-skin-roundster .jw-buffer{background:#9c9a9d}.jw-skin-roundster .jw-progress{background:#f15173}.jw-skin-roundster .jw-slider-horizontal{background:#dfe2e9}.jw-skin-roundster .jw-slider-horizontal .jw-knob{margin-left:-.45em}.jw-skin-roundster .jw-slider-vertical .jw-knob{margin-bottom:-.45em}.jw-skin-roundster .jw-menu,.jw-skin-roundster .jw-time-tip,.jw-skin-roundster .jw-volume-tip{background:#5c6373;border:0;padding:.5em}.jw-skin-roundster .jw-dock-button .jw-text,.jw-skin-roundster .jw-time-tip .jw-text{color:#bbb}.jw-skin-roundster .jw-time-tip{bottom:1em}.jw-skin-roundster .jw-dock-button{background:#8490a0;border-radius:.5em}.jw-skin-roundster .jw-dock-button:hover{background:#f15173}.jw-skin-roundster .jw-playlist-container{padding:0}.jw-skin-roundster .jw-icon-inline,.jw-skin-roundster .jw-icon-tooltip,.jw-skin-roundster .jw-text-duration,.jw-skin-roundster .jw-text-elapsed{padding:0 .25em}.jw-skin-roundster .jw-controlbar{display:block;margin:0 auto;max-width:96%;bottom:.7em;border-radius:1em;padding:0 1em}.jw-skin-roundster.jw-flag-audio-player .jw-controlbar{bottom:0}.jw-skin-roundster .jw-playlist-container{left:-48%;background-color:#878fa2;border-radius:.3em;overflow:hidden}.jw-skin-roundster .jw-playlist-container .jw-icon,.jw-skin-roundster .jw-playlist-container .jw-option,.jw-skin-roundster .jw-playlist-container .jw-text{color:#cbd0da}.jw-skin-roundster .jw-playlist-container .jw-option{border-bottom:1px solid #747d92;background-color:#878fa2}.jw-skin-roundster .jw-playlist-container .jw-option.jw-active-option,.jw-skin-roundster .jw-playlist-container .jw-option:hover{background-color:#747d92;color:#fff}.jw-skin-roundster .jw-playlist-container .jw-label .jw-icon-play{color:#f15173}.jw-skin-roundster .jw-playlist-container ::-webkit-scrollbar-track{background-color:#747d92}.jw-skin-roundster .jw-playlist-container ::-webkit-scrollbar{border:10px solid #878fa2}.jw-skin-roundster .jw-playlist-container ::-webkit-scrollbar-thumb{background-color:#fff}.jw-skin-roundster .jw-tooltip-title{border-bottom:1px solid #747d92;background-color:#878fa2}.jw-skin-roundster .jw-buffer,.jw-skin-roundster .jw-progress,.jw-skin-roundster .jw-rail{border-radius:1em}.jw-skin-roundster .jw-knob{background-color:#fff;width:.9em;height:.9em;border-radius:50%;box-shadow:0 1px 5px 1px #868ea3}.jw-skin-roundster .jw-slider-horizontal .jw-cue{top:.075em;width:.25em;height:.25em;border-radius:50%;background-color:#fff}.jw-skin-roundster .jw-slider-horizontal .jw-knob{top:-.25em}.jw-skin-roundster .jw-slider-vertical .jw-rail{background-color:#434853}.jw-skin-stormtrooper .jw-background-color,.jw-skin-stormtrooper .jw-controlbar,.jw-skin-stormtrooper .jw-display-icon-container:hover,.jw-skin-stormtrooper .jw-rail{background:#2b3036}.jw-skin-roundster .jw-slider-vertical .jw-progress,.jw-skin-roundster .jw-slider-vertical .jw-rail{width:.4em}.jw-skin-roundster .jw-menu,.jw-skin-roundster .jw-time-tip,.jw-skin-roundster .jw-volume-tip{border-radius:.25em}.jw-skin-roundster .jw-menu,.jw-skin-roundster .jw-volume-tip{bottom:.3em}.jw-skin-roundster .jw-dock .jw-dock-button{border-radius:50%}.jw-skin-roundster .jw-dock .jw-overlay{border-radius:2.5em}.jw-skin-stormtrooper .jw-button-color,.jw-skin-stormtrooper .jw-knob,.jw-skin-stormtrooper .jw-text,.jw-skin-stormtrooper .jw-tooltip-title{color:#6d7a8b}.jw-skin-stormtrooper .jw-button-color:hover,.jw-skin-stormtrooper .jw-toggle{color:#35e5fc}.jw-skin-stormtrooper .jw-option,.jw-skin-stormtrooper .jw-toggle.jw-off{color:#6d7a8b}.jw-skin-stormtrooper .jw-option.jw-active-option{color:#35e5fc}.jw-skin-stormtrooper .jw-icon-display{color:#6d7a8b}.jw-skin-stormtrooper .jw-display-icon-container{border-radius:.5em;padding:.5em .75em}.jw-skin-stormtrooper .jw-display-icon-container:hover .jw-icon-display{color:#35e5fc}.jw-skin-stormtrooper .jw-buffer{background:#000}.jw-skin-stormtrooper .jw-progress{background:#35e5fc}.jw-skin-stormtrooper .jw-slider-horizontal{background:#2b3036}.jw-skin-stormtrooper .jw-menu,.jw-skin-stormtrooper .jw-time-tip,.jw-skin-stormtrooper .jw-volume-tip{background:#333;border:0;padding:.5em}.jw-skin-stormtrooper .jw-dock-button .jw-text,.jw-skin-stormtrooper .jw-time-tip .jw-text{color:#bbb}.jw-skin-stormtrooper .jw-time-tip{bottom:1em}.jw-skin-stormtrooper .jw-dock-button{background:#2b3036;border-radius:.5em}.jw-skin-stormtrooper .jw-dock-button:hover{background:#2b3036}.jw-skin-stormtrooper .jw-playlist-container{padding:0}.jw-skin-stormtrooper .jw-icon-inline,.jw-skin-stormtrooper .jw-icon-tooltip,.jw-skin-stormtrooper .jw-text-duration,.jw-skin-stormtrooper .jw-text-elapsed{padding:0 .25em}.jw-skin-stormtrooper .jw-menu,.jw-skin-stormtrooper .jw-time-tip,.jw-skin-stormtrooper .jw-volume-tip{border-radius:.25em}.jw-skin-stormtrooper .jw-menu,.jw-skin-stormtrooper .jw-volume-tip{bottom:.3em}.jw-skin-stormtrooper .jw-playlist-container{background-color:#6d7a8b;left:-42%;border-radius:0;bottom:0}.jw-skin-stormtrooper .jw-playlist-container .jw-icon,.jw-skin-stormtrooper .jw-playlist-container .jw-option,.jw-skin-stormtrooper .jw-playlist-container .jw-text{color:#cbd0da}.jw-skin-stormtrooper .jw-playlist-container .jw-option{border-bottom:1px solid #5b697a;background-color:#6d7a8b}.jw-skin-stormtrooper .jw-playlist-container .jw-option.jw-active-option,.jw-skin-stormtrooper .jw-playlist-container .jw-option:hover{background:#5b697a}.jw-skin-stormtrooper .jw-playlist-container ::-webkit-scrollbar-track{background-color:#5b697a}.jw-skin-stormtrooper .jw-playlist-container ::-webkit-scrollbar{width:2px;border:10px solid #6d7a8b}.jw-skin-stormtrooper .jw-playlist-container ::-webkit-scrollbar-thumb{background:-webkit-linear-gradient(left,#2b3036 0,#fff 50%,#2b3036 100%);background:linear-gradient(to right,#2b3036 0,#fff 50%,#2b3036 100%)}.jw-skin-stormtrooper .jw-tooltip-title{border-bottom:1px solid #5b697a;background-color:#2b3036}.jw-skin-stormtrooper .jw-buffer,.jw-skin-stormtrooper .jw-knob,.jw-skin-stormtrooper .jw-progress,.jw-skin-stormtrooper .jw-rail{box-sizing:border-box;border:1.5px solid #000;border-radius:2px}.jw-skin-stormtrooper .jw-knob,.jw-skin-stormtrooper .jw-progress{background:#2b3036}.jw-skin-stormtrooper .jw-slider-horizontal .jw-buffer,.jw-skin-stormtrooper .jw-slider-horizontal .jw-progress,.jw-skin-stormtrooper .jw-slider-horizontal .jw-rail{height:.3em}.jw-skin-stormtrooper .jw-slider-horizontal .jw-progress{background:-webkit-linear-gradient(top,#1389af 0,#36e4fc 50%,#1389af 100%);background:linear-gradient(to bottom,#1389af 0,#36e4fc 50%,#1389af 100%)}.jw-skin-stormtrooper .jw-slider-horizontal .jw-knob{margin-left:-.05em;top:-.1em;background:-webkit-linear-gradient(left,#1389af 0,#36e4fc 50%,#1389af 100%);background:linear-gradient(to right,#1389af 0,#36e4fc 50%,#1389af 100%);width:.3em;height:.5em;border-width:1px;border-radius:0}.jw-skin-stormtrooper .jw-slider-horizontal .jw-cue{top:-.05em;background-color:#6d7a8b;border:1px solid #000}.jw-skin-stormtrooper .jw-slider-vertical .jw-progress,.jw-skin-stormtrooper .jw-slider-vertical .jw-rail{width:.3em}.jw-skin-stormtrooper .jw-slider-vertical .jw-progress{background:-webkit-linear-gradient(left,#1389af 0,#36e4fc 50%,#1389af 100%);background:linear-gradient(to right,#1389af 0,#36e4fc 50%,#1389af 100%)}.jw-skin-stormtrooper .jw-slider-vertical .jw-knob{margin-bottom:-.05em;background:-webkit-linear-gradient(top,#1389af 0,#36e4fc 50%,#1389af 100%);background:linear-gradient(to bottom,#1389af 0,#36e4fc 50%,#1389af 100%);height:.2em;width:.5em;border-width:1px}.jw-skin-stormtrooper .jw-icon-cc.jw-off:before{content:"\e604"}.jw-skin-stormtrooper .jw-icon-hd.jw-off:before{content:"\e609"}.jw-skin-vapor .jw-background-color{background:rgba(0,0,0,.5)}.jw-skin-vapor .jw-controlbar{background:rgba(255,255,255,.4)}.jw-skin-vapor .jw-button-color,.jw-skin-vapor .jw-knob,.jw-skin-vapor .jw-text,.jw-skin-vapor .jw-tooltip-title{color:rgba(0,0,0,.5)}.jw-skin-vapor .jw-button-color:hover,.jw-skin-vapor .jw-toggle{color:#fff}.jw-skin-vapor .jw-option,.jw-skin-vapor .jw-toggle.jw-off{color:rgba(0,0,0,.5)}.jw-skin-vapor .jw-option.jw-active-option{color:#fff}.jw-skin-vapor .jw-icon-display{color:rgba(255,255,255,.5)}.jw-skin-vapor .jw-display-icon-container{border-radius:.5em;padding:.5em .75em}.jw-skin-vapor .jw-display-icon-container:hover{background:#000}.jw-skin-vapor .jw-display-icon-container:hover .jw-icon-display{color:#0f9e60}.jw-skin-vapor .jw-rail{background:rgba(255,255,255,.4)}.jw-skin-vapor .jw-buffer{background:rgba(0,0,0,.5)}.jw-skin-vapor .jw-progress{background:#0f9e60}.jw-skin-vapor .jw-slider-horizontal{background:rgba(255,255,255,.4)}.jw-skin-vapor .jw-slider-vertical .jw-knob{margin-bottom:-.325em;display:none}.jw-skin-vapor .jw-menu,.jw-skin-vapor .jw-time-tip,.jw-skin-vapor .jw-volume-tip{background:rgba(0,0,0,.5);border:0;padding:.5em}.jw-skin-vapor .jw-dock-button .jw-text,.jw-skin-vapor .jw-time-tip .jw-text{color:#bbb}.jw-skin-vapor .jw-time-tip{bottom:1em}.jw-skin-vapor .jw-dock-button{background:rgba(0,0,0,.5);border-radius:.5em}.jw-skin-vapor .jw-dock-button:hover{background:#000}.jw-skin-vapor .jw-playlist-container{padding:0}.jw-skin-vapor .jw-icon-inline,.jw-skin-vapor .jw-icon-tooltip,.jw-skin-vapor .jw-text-duration,.jw-skin-vapor .jw-text-elapsed{padding:0 .25em}.jw-skin-vapor .jw-menu,.jw-skin-vapor .jw-time-tip,.jw-skin-vapor .jw-volume-tip{border-radius:.25em;bottom:.3em}.jw-skin-vapor .jw-option{color:#fff}.jw-skin-vapor .jw-option.jw-active-option,.jw-skin-vapor .jw-option:hover{color:#0f9e60}.jw-skin-vapor .jw-playlist-container{left:-42%;bottom:0;border-radius:0;background-color:#1e1e1e}.jw-skin-vapor .jw-playlist-container .jw-icon,.jw-skin-vapor .jw-playlist-container .jw-option,.jw-skin-vapor .jw-playlist-container .jw-text{color:#a0a0a0}.jw-skin-vapor .jw-playlist-container .jw-option{border-bottom:1px solid #000;background-color:#1e1e1e;color:#a8a8a8}.jw-skin-vapor .jw-playlist-container .jw-option.jw-active-option,.jw-skin-vapor .jw-playlist-container .jw-option:hover{color:#0f9e60}.jw-skin-vapor .jw-playlist-container ::-webkit-scrollbar-track{background-color:#000}.jw-skin-vapor .jw-playlist-container ::-webkit-scrollbar{width:2px;border:10px solid #1e1e1e}.jw-skin-vapor .jw-playlist-container ::-webkit-scrollbar-thumb{background-color:#a0a0a0}.jw-skin-vapor .jw-tooltip-title{border-bottom:1px solid #000;background-color:#1e1e1e}.jw-skin-vapor .jw-slider-horizontal,.jw-skin-vapor .jw-slider-horizontal .jw-buffer,.jw-skin-vapor .jw-slider-horizontal .jw-progress,.jw-skin-vapor .jw-slider-horizontal .jw-rail,.jw-skin-vapor .jw-slider-horizontal .jw-slider-container{height:100%}.jw-skin-vapor .jw-slider-horizontal .jw-cue,.jw-skin-vapor .jw-slider-horizontal .jw-knob{height:2em}.jw-skin-vapor .jw-slider-horizontal .jw-knob{margin-left:0;background-color:#fff;width:.2em}.jw-skin-vapor .jw-slider-horizontal .jw-cue{top:.67em;background:rgba(255,255,255,.5);height:.66em}.jw-skin-vapor .jw-slider-vertical{padding:.4em;bottom:3px;border-radius:2px;border:0}.jw-skin-vapor .jw-slider-vertical .jw-rail{background-color:rgba(0,0,0,.8)}.jw-skin-vapor .jw-slider-vertical .jw-progress,.jw-skin-vapor .jw-slider-vertical .jw-rail{width:.5em;border:1px solid #000}.jw-skin-vapor .jw-icon-cc.jw-off:before{content:"\e604"}.jw-skin-vapor .jw-icon-hd.jw-off:before{content:"\e609"}.jw-skin-vapor.jw-flag-audio-player .jw-controlbar{background:rgba(0,0,0,.5)}.jw-skin-six .jw-background-color{background:#333}.jw-skin-six .jw-controlbar{background:-webkit-linear-gradient(90deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%);background:linear-gradient(0deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%)}.jw-skin-six .jw-button-color,.jw-skin-six .jw-knob,.jw-skin-six .jw-text,.jw-skin-six .jw-tooltip-title{color:#aaa}.jw-skin-six .jw-button-color:hover,.jw-skin-six .jw-toggle{color:#eee}.jw-skin-six .jw-option,.jw-skin-six .jw-toggle.jw-off{color:#aaa}.jw-skin-six .jw-option.jw-active-option{color:#eee}.jw-skin-six .jw-icon-display{color:#aaa}.jw-skin-six .jw-display-icon-container:hover{background:#4d4d4d}.jw-skin-six .jw-display-icon-container:hover .jw-icon-display{color:#eee}.jw-skin-six .jw-rail{background:#666}.jw-skin-six .jw-buffer{background:#202020}.jw-skin-six .jw-menu,.jw-skin-six .jw-slider-horizontal,.jw-skin-six .jw-time-tip,.jw-skin-six .jw-volume-tip{background:-webkit-linear-gradient(90deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%)}.jw-skin-six .jw-slider-horizontal{background:linear-gradient(0deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%)}.jw-skin-six .jw-slider-horizontal .jw-knob{margin-left:-.4em;top:-.075em}.jw-skin-six .jw-slider-vertical .jw-knob{margin-bottom:-.4em}.jw-skin-six .jw-menu,.jw-skin-six .jw-time-tip,.jw-skin-six .jw-volume-tip{background:linear-gradient(0deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%);border:1px solid #000;padding:.5em}.jw-skin-six .jw-dock-button .jw-text,.jw-skin-six .jw-time-tip .jw-text{color:#bbb}.jw-skin-six .jw-time-tip{bottom:1em}.jw-skin-six .jw-dock-button{background:#333;border-radius:.5em}.jw-skin-six .jw-dock-button:hover{background:#4d4d4d}.jw-skin-six .jw-playlist-container{padding:0;left:-41%}.jw-skin-six .jw-icon-inline,.jw-skin-six .jw-icon-tooltip,.jw-skin-six .jw-text-duration,.jw-skin-six .jw-text-elapsed{padding:0 .25em}.jw-skin-six .jw-background-color{background-color:#444}.jw-skin-six .jw-controlbar{display:block;margin:0 auto;max-width:96%;bottom:.7em;border:1px solid #000;border-radius:.3em;background-size:100% 100%}.jw-skin-six.jw-flag-audio-player .jw-controlbar{bottom:0}.jw-skin-six .jw-controlbar .jw-overlay{bottom:2.25em}.jw-skin-six .jw-display-icon-container{background:-webkit-linear-gradient(90deg,rgba(73,73,75,.85) 0,rgba(69,69,71,.9) 3%,rgba(63,63,65,.9) 7%,rgba(62,62,64,.9) 10%,rgba(58,58,61,.9) 59%,rgba(52,52,55,.9) 97%,rgba(52,52,55,.85) 100%);background:linear-gradient(0deg,rgba(73,73,75,.85) 0,rgba(69,69,71,.9) 3%,rgba(63,63,65,.9) 7%,rgba(62,62,64,.9) 10%,rgba(58,58,61,.9) 59%,rgba(52,52,55,.9) 97%,rgba(52,52,55,.85) 100%);background-size:100% 100%;border-radius:.3em;padding:0 1em;border:1px solid #000}.jw-skin-six:hover .jw-display-icon-container{background:-webkit-linear-gradient(90deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%);background:linear-gradient(0deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%);background-size:100% 100%}.jw-skin-six .jw-option{text-align:left}.jw-skin-six .jw-option:before{content:"\e606";font-size:.4em;vertical-align:middle;margin-right:.4em}.jw-skin-six .jw-playlist-container .jw-icon,.jw-skin-six .jw-playlist-container .jw-text{color:#eee}.jw-skin-six .jw-playlist-container .jw-option{border-bottom:1px solid #2f2f31;color:#878787}.jw-skin-six .jw-playlist-container .jw-option:before{content:""}.jw-skin-six .jw-playlist-container .jw-option.jw-active-option,.jw-skin-six .jw-playlist-container .jw-option:hover{background-color:#2f2f31;color:#fff}.jw-skin-seven .jw-playlist-container .jw-label .jw-icon-play,.jw-skin-seven .jw-playlist-container .jw-option:hover .jw-label{color:#ff0046}.jw-skin-six .jw-playlist-container ::-webkit-scrollbar{border-radius:.25em}.jw-skin-six .jw-playlist-container ::-webkit-scrollbar-track{background-color:#3c3c3e}.jw-skin-six .jw-playlist-container ::-webkit-scrollbar-thumb{background:-webkit-linear-gradient(left,#fff 0,#ccc 50%,#fff 100%);background:linear-gradient(to right,#fff 0,#ccc 50%,#fff 100%)}.jw-skin-six .jw-buffer,.jw-skin-six .jw-progress,.jw-skin-six .jw-rail{border-radius:.5em;border:1px solid #000}.jw-skin-six .jw-progress{background:-webkit-linear-gradient(top,#fff 0,#ccc 50%,#fff 100%);background:linear-gradient(to bottom,#fff 0,#ccc 50%,#fff 100%)}.jw-skin-six .jw-rail{box-shadow:inset 0 3px 10px 1px rgba(51,51,51,.85)}.jw-skin-six .jw-knob{width:.8em;height:.8em;border-radius:1em;background:-webkit-radial-gradient(center,ellipse,#f3f3f3 0,#d2d2d2 90%,#b0b0b0 100%);background:radial-gradient(ellipse at center,#f3f3f3 0,#d2d2d2 90%,#b0b0b0 100%);box-shadow:0 1px 10px 1px rgba(0,0,0,.75)}.jw-skin-six .jw-slider-horizontal .jw-slider-container{height:1.2em}.jw-skin-six .jw-slider-horizontal .jw-buffer,.jw-skin-six .jw-slider-horizontal .jw-progress,.jw-skin-six .jw-slider-horizontal .jw-rail{height:.65em}.jw-skin-six .jw-slider-horizontal .jw-progress{border-radius:.5em 0 0 .5em}.jw-skin-six .jw-slider-horizontal .jw-buffer,.jw-skin-six .jw-slider-horizontal .jw-progress{border:1px solid #000;border-style:solid none #000}.jw-skin-six .jw-slider-horizontal .jw-cue{top:.2em;width:.25em;height:.25em;background-color:#616164;border-radius:50%;box-shadow:0 0 0 1px rgba(0,0,0,.75)}.jw-skin-six .jw-slider-vertical .jw-progress,.jw-skin-six .jw-slider-vertical .jw-rail{width:.65em}.jw-skin-six .jw-slider-vertical .jw-progress{background:-webkit-linear-gradient(left,#fff 0,#ccc 50%,#fff 100%);background:linear-gradient(to right,#fff 0,#ccc 50%,#fff 100%);border-radius:0 0 .5em .5em}.jw-skin-six .jw-menu,.jw-skin-six .jw-time-tip,.jw-skin-six .jw-volume-tip{background-size:100% 100%;border-radius:.25em}.jw-skin-six .jw-dock .jw-dock-button{background:-webkit-linear-gradient(90deg,rgba(73,73,75,.85) 0,rgba(69,69,71,.9) 3%,rgba(63,63,65,.9) 7%,rgba(62,62,64,.9) 10%,rgba(58,58,61,.9) 59%,rgba(52,52,55,.9) 97%,rgba(52,52,55,.85) 100%);background:linear-gradient(0deg,rgba(73,73,75,.85) 0,rgba(69,69,71,.9) 3%,rgba(63,63,65,.9) 7%,rgba(62,62,64,.9) 10%,rgba(58,58,61,.9) 59%,rgba(52,52,55,.9) 97%,rgba(52,52,55,.85) 100%);background-size:100% 100%;border-radius:.25em}.jw-skin-six .jw-dock .jw-dock-button .jw-overlay,.jw-skin-six .jw-dock .jw-dock-button:hover{background:-webkit-linear-gradient(90deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%)}.jw-skin-six .jw-dock .jw-dock-button:hover{background:linear-gradient(0deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%)}.jw-skin-six .jw-dock .jw-dock-button .jw-overlay{background:linear-gradient(0deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%);background-size:100% 100%;border-radius:.25em}.jw-skin-six .jw-skip{background:-webkit-linear-gradient(90deg,rgba(73,73,75,.85) 0,rgba(69,69,71,.9) 3%,rgba(63,63,65,.9) 7%,rgba(62,62,64,.9) 10%,rgba(58,58,61,.9) 59%,rgba(52,52,55,.9) 97%,rgba(52,52,55,.85) 100%);background:linear-gradient(0deg,rgba(73,73,75,.85) 0,rgba(69,69,71,.9) 3%,rgba(63,63,65,.9) 7%,rgba(62,62,64,.9) 10%,rgba(58,58,61,.9) 59%,rgba(52,52,55,.9) 97%,rgba(52,52,55,.85) 100%);background-size:100% 100%;border-radius:.5em;padding:.25em .5em}.jw-skin-six .jw-skip:hover{background:-webkit-linear-gradient(90deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%);background:linear-gradient(0deg,rgba(73,73,75,.87) 0,#454547 3%,#3f3f41 7%,#3e3e40 10%,#3a3a3d 59%,#343437 97%,rgba(52,52,55,.87) 100%);background-size:100% 100%}.jw-skin-seven .jw-background-color{background:#000}.jw-skin-seven .jw-controlbar{border-top:#333 1px solid;height:2.5em}.jw-skin-seven .jw-group{vertical-align:middle}.jw-skin-seven .jw-playlist{background-color:rgba(0,0,0,.5)}.jw-skin-seven .jw-playlist-container{left:-43%;background-color:rgba(0,0,0,.5)}.jw-skin-seven .jw-playlist-container .jw-option{border-bottom:1px solid #444}.jw-skin-seven .jw-playlist-container .jw-option.jw-active-option,.jw-skin-seven .jw-playlist-container .jw-option:hover{background-color:#000}.jw-skin-seven .jw-playlist-container .jw-icon-playlist{margin-left:0}.jw-skin-seven .jw-playlist-container .jw-label .jw-icon-play:before{padding-left:0}.jw-skin-seven .jw-tooltip-title{background-color:#000;color:#fff}.jw-skin-seven .jw-button-color,.jw-skin-seven .jw-text{color:#fff}.jw-skin-seven .jw-button-color:hover,.jw-skin-seven .jw-toggle{color:#ff0046}.jw-skin-seven .jw-icon-display,.jw-skin-seven .jw-toggle.jw-off{color:#fff}.jw-skin-seven .jw-controlbar .jw-icon:before,.jw-skin-seven .jw-text-duration,.jw-skin-seven .jw-text-elapsed{padding:0 .7em}.jw-skin-seven .jw-controlbar .jw-icon-playlist:before{padding:0}.jw-skin-seven .jw-icon-next,.jw-skin-seven .jw-icon-prev{font-size:.7em}.jw-skin-seven .jw-icon-prev:before{border-left:1px solid #666}.jw-skin-seven .jw-icon-next:before{border-right:1px solid #666}.jw-skin-seven .jw-icon-display:before{padding-left:0}.jw-skin-seven .jw-display-icon-container{border-radius:50%;padding:0 .3em;border:1px solid #333}.jw-skin-seven.jw-state-idle .jw-display-icon-container{padding:0 0 0 .5em}.jw-skin-seven .jw-rail{background-color:#384154;box-shadow:none}.jw-skin-seven .jw-buffer{background-color:#666f82}.jw-skin-seven .jw-progress{background:#ff0046}.jw-skin-seven .jw-knob{width:.6em;height:.6em;background-color:#fff;box-shadow:0 0 0 1px #000;border-radius:1em}.jw-skin-seven .jw-slider-horizontal .jw-slider-container{height:.95em}.jw-skin-seven .jw-slider-horizontal .jw-buffer,.jw-skin-seven .jw-slider-horizontal .jw-progress,.jw-skin-seven .jw-slider-horizontal .jw-rail{height:.2em;border-radius:0}.jw-skin-seven .jw-slider-horizontal .jw-knob{top:-.2em}.jw-skin-seven .jw-slider-horizontal .jw-cue{top:-.05em;width:.3em;height:.3em;background-color:#fff;border-radius:50%}.jw-skin-seven .jw-slider-vertical .jw-buffer,.jw-skin-seven .jw-slider-vertical .jw-progress,.jw-skin-seven .jw-slider-vertical .jw-rail{width:.2em}.jw-skin-seven .jw-volume-tip{width:100%;left:-45%;padding-bottom:.7em}.jw-skin-seven .jw-text-duration{color:#666f82}.jw-skin-seven .jw-controlbar-right-group .jw-icon-inline:before,.jw-skin-seven .jw-controlbar-right-group .jw-icon-tooltip:before{border-left:1px solid #666}.jw-skin-seven .jw-controlbar-right-group .jw-icon-inline:first-child:before{border:none}.jw-skin-seven .jw-dock .jw-dock-button{border-radius:50%;border:1px solid #333}.jw-skin-seven .jw-dock .jw-overlay{border-radius:2.5em}.jw-skin-seven .jw-icon-tooltip .jw-active-option{background-color:#ff0046;color:#fff}.jw-skin-seven .jw-icon-volume{min-width:2.6em}.jw-skin-seven .jw-menu,.jw-skin-seven .jw-skip,.jw-skin-seven .jw-time-tip,.jw-skin-seven .jw-volume-tip{border:1px solid #333}.jw-skin-seven .jw-time-tip{padding:.2em;bottom:1.3em}.jw-skin-seven .jw-menu,.jw-skin-seven .jw-volume-tip{bottom:.24em}.jw-skin-seven .jw-skip{padding:.4em;border-radius:1em}.jw-skin-seven .jw-skip .jw-icon-inline,.jw-skin-seven .jw-skip .jw-text{color:#fff;font-size:.7em}</style><style>.cke{visibility:hidden;}</style><style type="text/css">.fancybox-margin{margin-right:17px;}</style><link rel="preload" href="./Cuestionarios_files/f.txt" as="script"><script type="text/javascript" src="./Cuestionarios_files/f.txt"></script><link rel="preload" href="./Cuestionarios_files/f(1).txt" as="script"><script type="text/javascript" src="./Cuestionarios_files/f(1).txt"></script><link rel="prefetch" href="https://95cd0ff915cf0b62fd8120f26696d70c.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html"><script type="text/javascript" src="./Cuestionarios_files/w"></script><style media="print" class="jx_ui_StyleSheet" __jx__id="___$_2" type="text/css">.zopim { display: none !important }</style></head>
+<body><div class="zopim" __jx__id="___$_11 ___$_11" data-test-id="ChatWidgetButton" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px; border: 0px; background: transparent; overflow: hidden; position: fixed; z-index: 16000002; width: 190px; height: 30px; right: 10px; bottom: 0px; display: none;"><iframe frameborder="0" style="background-color: transparent; vertical-align: text-bottom; position: relative; width: 100%; height: 100%; min-width: 100%; min-height: 100%; max-width: 100%; max-height: 100%; margin: 0px; overflow: hidden; display: block;" src="./Cuestionarios_files/saved_resource.html" data-test-id="ChatWidgetButton-iframe" title="Zendesk Chat widget button"></iframe></div><div class="zopim" __jx__id="___$_4 ___$_4" data-test-id="ChatWidgetWindow" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px; border: 0px; background: transparent; overflow: hidden; position: fixed; z-index: 16000001; right: 10px; bottom: 0px; border-top-left-radius: 5px; border-top-right-radius: 5px; display: none; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 3px 2px;"><iframe frameborder="0" style="background-color: transparent; vertical-align: text-bottom; position: relative; width: 100%; height: 100%; min-width: 100%; min-height: 100%; max-width: 100%; max-height: 100%; margin: 0px; overflow: hidden; display: block;" src="./Cuestionarios_files/saved_resource(1).html" data-test-id="ChatWidgetWindow-iframe" title="Zendesk Chat widget window"></iframe></div>
+    
+    
+    
+
+
+
+
+<nav class="navbar navbar-inverse q10navbar">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="https://site4.q10.com/">
+            <img src="./Cuestionarios_files/903470054278.png" style="background-color:#fff;">
+        </a>
+    </div>
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+<ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">Institucional&nbsp;<b class="caret"></b></a>
+<ul class="dropdown-menu"><li><a href="https://site4.q10.com/EditarEstudiante">Actualización de Información</a></li><li class="dropdown-submenu"><a href="javascript:;">Estudiantes&nbsp;<b class="caret visible-xs-inline-block"></b></a>
+<ul class="dropdown-menu"><li class="divider"></li><li><a href="https://site4.q10.com/Observador">Observador</a></li></ul></li><li class="dropdown-submenu"><a href="javascript:;">Bienestar Institucional&nbsp;<b class="caret visible-xs-inline-block"></b></a>
+<ul class="dropdown-menu"><li><a href="https://site4.q10.com/Encuesta/Responder">Responder Encuestas</a></li><li><a href="https://site4.q10.com/OfertasLaborales">Ofertas Laborales</a></li></ul></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;" aria-expanded="false">Académico&nbsp;<b class="caret"></b></a>
+<ul class="dropdown-menu"><li><a href="https://site4.q10.com/Horario">Horarios</a></li><li><a href="https://site4.q10.com/Prematricula">Prematriculas</a></li><li class="dropdown-submenu"><a href="javascript:;">Educación Virtual&nbsp;<b class="caret visible-xs-inline-block"></b></a>
+<ul class="dropdown-menu"><li><a href="https://site4.q10.com/EducacionVirtual/CursosVirtuales">Cursos Virtuales</a></li><li><a href="https://site4.q10.com/AulasVirtuales">Aulas Virtuales</a></li></ul></li></ul></li><li><a href="https://site4.q10.com/ResultadosEstudiante">Resultados de Evaluación</a></li><li><a href="https://site4.q10.com/EstadoCuenta">Estado de Cuenta</a></li></ul>        <ul class="nav navbar-nav navbar-right">
+
+
+            
+
+    <li class="dropdown dropdown-notifications">
+        <a href="https://site4.q10.com/EducacionVirtual/Cuestionario/353/441/Responder#notifications-panel" class="dropdown-toggle" data-toggle="dropdown" title="Notificaciones">
+            <i data-count="11" class="glyphicon glyphicon-bell notification-icon"></i>
+        </a>
+        <div class="dropdown-container dropdown-position-bottomright">
+            <div class="dropdown-toolbar notifications-title">
+                Notificaciones
+            </div>
+            <ul class="dropdown-menu notifications">
+                        <li class="notification" data-href="/EducacionVirtual/CursoVirtual/441" data-id="349193">
+                            <div class="media">
+                                <div class="media-body">
+                                    <span class="notification-title "><i class="fa fa-info-circle"></i> Publicación de Anuncio</span>
+                                    <p class="notification-desc">Se ha publicado un anuncio para el curso virtual <b>CONTABILIDAD</b></p>
+
+                                    <div class="notification-meta">
+                                        <small class="timestamp contextual-date" data-date="2020-11-12 09:11:35" title="12/11/2020 9:11:35 a.m.">hace 11 días</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="notification" data-href="/EducacionVirtual/CursoVirtual/441" data-id="349143">
+                            <div class="media">
+                                <div class="media-body">
+                                    <span class="notification-title "><i class="fa fa-info-circle"></i> Publicación de Anuncio</span>
+                                    <p class="notification-desc">Se ha publicado un anuncio para el curso virtual <b>CONTABILIDAD</b></p>
+
+                                    <div class="notification-meta">
+                                        <small class="timestamp contextual-date" data-date="2020-11-12 08:51:25" title="12/11/2020 8:51:25 a.m.">hace 11 días</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="notification" data-href="/EducacionVirtual/CursoVirtual/441" data-id="347919">
+                            <div class="media">
+                                <div class="media-body">
+                                    <span class="notification-title "><i class="fa fa-info-circle"></i> Publicación de Anuncio</span>
+                                    <p class="notification-desc">Se ha publicado un anuncio para el curso virtual <b>CONTABILIDAD</b></p>
+
+                                    <div class="notification-meta">
+                                        <small class="timestamp contextual-date" data-date="2020-11-09 19:21:14" title="9/11/2020 7:21:14 p.m.">hace 14 días</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="notification" data-href="/EducacionVirtual/CursoVirtual/441" data-id="340529">
+                            <div class="media">
+                                <div class="media-body">
+                                    <span class="notification-title "><i class="fa fa-info-circle"></i> Publicación de Anuncio</span>
+                                    <p class="notification-desc">Se ha publicado un anuncio para el curso virtual <b>CONTABILIDAD</b></p>
+
+                                    <div class="notification-meta">
+                                        <small class="timestamp contextual-date" data-date="2020-10-22 14:10:18" title="22/10/2020 2:10:18 p.m.">hace un mes</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="notification" data-href="/EducacionVirtual/CursoVirtual/441" data-id="267872">
+                            <div class="media">
+                                <div class="media-body">
+                                    <span class="notification-title "><i class="fa fa-info-circle"></i> Publicación de Anuncio</span>
+                                    <p class="notification-desc">Se ha publicado un anuncio para el curso virtual <b>CONTABILIDAD</b></p>
+
+                                    <div class="notification-meta">
+                                        <small class="timestamp contextual-date" data-date="2020-09-07 13:44:58" title="7/09/2020 1:44:58 p.m.">hace 3 meses</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="notification" data-href="/EducacionVirtual/CursoVirtual/622" data-id="266778">
+                            <div class="media">
+                                <div class="media-body">
+                                    <span class="notification-title "><i class="fa fa-info-circle"></i> Publicación de Anuncio</span>
+                                    <p class="notification-desc">Se ha publicado un anuncio para el curso virtual <b>HERRAMIENTAS DE GESTIÓN DE PROYECTOS /  	HERRAMIENTAS DE SOFTWARE DE GESTIÓN DE PROYECTOS</b></p>
+
+                                    <div class="notification-meta">
+                                        <small class="timestamp contextual-date" data-date="2020-09-03 20:29:30" title="3/09/2020 8:29:30 p.m.">hace 3 meses</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="notification" data-href="/EducacionVirtual/CursoVirtual/432" data-id="265156">
+                            <div class="media">
+                                <div class="media-body">
+                                    <span class="notification-title "><i class="fa fa-info-circle"></i> Publicación de Anuncio</span>
+                                    <p class="notification-desc">Se ha publicado un anuncio para el curso virtual <b>CALIDAD DEL SOFTWARE</b></p>
+
+                                    <div class="notification-meta">
+                                        <small class="timestamp contextual-date" data-date="2020-09-01 06:03:15" title="1/09/2020 6:03:15 a.m.">hace 3 meses</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="notification" data-href="/EducacionVirtual/CursoVirtual/528" data-id="258980">
+                            <div class="media">
+                                <div class="media-body">
+                                    <span class="notification-title "><i class="fa fa-info-circle"></i> Publicación de Anuncio</span>
+                                    <p class="notification-desc">Se ha publicado un anuncio para el curso virtual <b>INGENIERÍA DE SOFTWARE I</b></p>
+
+                                    <div class="notification-meta">
+                                        <small class="timestamp contextual-date" data-date="2020-08-20 14:46:15" title="20/08/2020 2:46:15 p.m.">hace 3 meses</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="notification" data-href="/EducacionVirtual/CursoVirtual/521" data-id="258853">
+                            <div class="media">
+                                <div class="media-body">
+                                    <span class="notification-title "><i class="fa fa-info-circle"></i> Publicación de Anuncio</span>
+                                    <p class="notification-desc">Se ha publicado un anuncio para el curso virtual <b>ARQUITECTURA DE SOFTWARE</b></p>
+
+                                    <div class="notification-meta">
+                                        <small class="timestamp contextual-date" data-date="2020-08-20 14:30:37" title="20/08/2020 2:30:37 p.m.">hace 3 meses</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="notification" data-href="/EducacionVirtual/CursoVirtual/496" data-id="258770">
+                            <div class="media">
+                                <div class="media-body">
+                                    <span class="notification-title "><i class="fa fa-info-circle"></i> Publicación de Anuncio</span>
+                                    <p class="notification-desc">Se ha publicado un anuncio para el curso virtual <b>BASES DE DATOS DISTRIBUIDAS</b></p>
+
+                                    <div class="notification-meta">
+                                        <small class="timestamp contextual-date" data-date="2020-08-20 14:22:45" title="20/08/2020 2:22:45 p.m.">hace 3 meses</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="notification" data-href="/EducacionVirtual/CursoVirtual/441" data-id="258249">
+                            <div class="media">
+                                <div class="media-body">
+                                    <span class="notification-title "><i class="fa fa-info-circle"></i> Publicación de Anuncio</span>
+                                    <p class="notification-desc">Se ha publicado un anuncio para el curso virtual <b>CONTABILIDAD</b></p>
+
+                                    <div class="notification-meta">
+                                        <small class="timestamp contextual-date" data-date="2020-08-19 16:49:13" title="19/08/2020 4:49:13 p.m.">hace 3 meses</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+            </ul>
+
+            <div class="dropdown-footer text-center">
+            </div><!-- /dropdown-footer -->
+        </div><!-- /dropdown-container -->
+    </li><!-- /dropdown -->
+
+
+
+            <li class="dropdown user-menu">
+                            <a href="https://site4.q10.com/EducacionVirtual/Cuestionario/353/441/Responder#" class="dropdown-toggle" data-toggle="dropdown">
+                                HELKIN HERNAN
+                                <b class="caret"></b>
+                            </a>
+                        <ul class="dropdown-menu">
+                                                                                    <li><a href="https://site4.q10.com/EducacionVirtual/Cuestionario/353/441/Responder#acercaQ10" data-toggle="modal">Acerca de Q10</a></li>
+
+                                <li class="divider"></li>
+
+
+
+
+
+
+                                                            <li><a href="https://site4.q10.com/CambiarContrasena" class="modal-form">Cambiar Contraseña</a></li>
+
+                            <li><a href="javascript:document.getElementById(&#39;logoutForm&#39;).submit()">Cerrar sesión</a></li>
+                        </ul>
+            </li>
+        </ul>
+    </div>
+
+
+</nav>
+<!-- Modal -->
+<div class="modal fade" id="support">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">Q10</h4>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <p><i class="icon-comments icon-4x"></i></p>
+                            <p>Chatea con nosotros</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <p><i class="icon-bug icon-4x"></i></p>
+                            <p>Reporta un problema</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!-- Modal -->
+<div class="modal fade" id="acercaQ10" style="overflow-y: hidden;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">Acerca de Q10</h4>
+            </div>
+            <div class="modal-body">
+                <div class="container estiloAcerca" style="width: 558px;">
+                    <div class="row" style="margin-top: 10px;">
+                        <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+                            <img style="height: 140px; width: 230px;" src="./Cuestionarios_files/LogoQ10_SOlO.png">
+                        </div>
+                        <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+                            <div class="jumbotron">
+                                <h4>
+                                    <span style="font-weight: bold;">Prestigio y productividad para su institución</span>
+                                </h4>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-12 text-center">
+                            <a href="http://www.q10.com/" target="_blank">© 2020 Q10 S.A.S </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<style>
+    .estiloAcerca .jumbotron {
+        margin-bottom: 23px;
+        padding-top: 32px;
+        padding-bottom: 28px;
+        padding-right: 26px;
+        padding-left: 41px;
+    }
+</style>
+
+<form action="https://site4.q10.com/Salir" id="logoutForm" method="post" style="display:none;"></form>
+<style>
+    .head-ent a,
+    .head-ent:hover a {
+        color: #969393 !important;
+        background-color: transparent !important;
+        cursor: default;
+        font-style: italic;
+    }
+
+    .ent-ul {
+        top: -41px !important;
+    }
+</style>
+
+
+
+<style>
+    a.change.disabled {
+        pointer-events: none;
+    }
+
+    .footer-censa {
+        width: 265px;
+        background-color: #EEEEEE;
+        position: absolute;
+        text-align: center;
+        font-size: 11px;
+        border: 1px solid #ccc;
+        border-top: none;
+        display: none;
+        z-index: 5;
+    }
+
+        .footer-censa > a {
+            padding: 5px;
+            display: block;
+        }
+
+    div.footer-censa.vis {
+        display: block;
+    }
+</style>
+
+<div class="container-full">
+    <div class="row clearfix" style="margin-top:-20px;">
+        <div class="col-lg-12 col-md-12 main-col">
+            <div class="row messages hidden-print">
+    <div class="col-lg-12 col-md-12 messagesInner affix" data-spy="affix" data-offset-top="20">
+    </div>
+</div>
+
+            
+
+<div id="wizard" style="margin-bottom: 40px;"><form action="https://site4.q10.com/EducacionVirtual/ActualizarRespuestaCuestionario" data-ajax="true" data-ajax-begin="$(&#39;button[type=&quot;submit&quot;]&#39;).button(&#39;loading&#39;);" data-ajax-complete="$(&#39;button[type=&quot;submit&quot;]&#39;).button(&#39;reset&#39;);" data-ajax-failure="onError" data-ajax-loading="#loading" data-ajax-method="POST" data-ajax-mode="replace" data-ajax-success="onSuccess" data-ajax-update="#wizard" id="formWizard" method="post" novalidate="novalidate">        <input type="hidden" id="direccion" name="direccion" value="1">
+        <input type="hidden" id="timeOut" name="timeOut" value="false">
+        <input type="hidden" id="pagina" name="pagina" value="1">
+        <input type="hidden" id="tipo" name="tipo" value="N">
+        <input type="hidden" id="guardar" name="guardar" value="True">
+        <div class="panel panel-default" style="margin-bottom: 20px;">
+            <div class="panel-body" style="padding: 15px;">
+                <div class="pull-left" style="padding-top: 4px;">
+                    <i class="fa fa-question icono" style="background-color: #5cb85c;" title="" data-toggle="tooltip" data-container="body" data-original-title="Cuestionario"></i>
+                </div>
+                    <div class="pull-right">
+                        <span style="margin-right: 7px;">Página 1 de 1</span>
+                        <div class="progress" style="margin-bottom: 0px;">
+                            <div class="progress-bar progress-bar-success" style="background-color:#5cb85c;width: 100%" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="pull-right text-center" style="border: 1px solid #eee;border-radius: 4px;margin-right: 20px;padding: 2px 10px;background-color: #eee;">
+                        <p style="margin-bottom: 0px;font-size:12px;">Tiempo Disponible</p>
+                        <span id="clock" class="text-bold" style="font-size: 18px;line-height: 0px;">2:10:38</span>
+                    </div>
+                <div style="padding-left: 52px;">
+                    <small style="color:#5cb85c">Cuestionario:</small>
+                    <h3 style="margin: 0px;">
+                            <span>Parcial IV</span>
+                    </h3>
+                </div>
+            </div>
+        </div>
+
+
+    <div class="panel panel-default contenedor-preguntas">
+        <div class="panel-body" id="listaPreguntas">
+
+
+
+
+            <input id="cue_nombre" name="cue_nombre" type="hidden" value="">
+            <input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresper_consecutivo P field is required." id="cueresper_consecutivoP" name="cueresper_consecutivoP" type="hidden" value="4520">
+            <input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresper_cue_consecutivo field is required." id="cueresper_cue_consecutivo" name="cueresper_cue_consecutivo" type="hidden" value="353">
+            <input data-val="true" data-val-date="El valor debe ser una fecha válida" id="cueresper_fecha_inicio" name="cueresper_fecha_inicio" type="hidden" value="23/11/2020 6:33:09 p.m.">
+            <input id="cueresper_per_codigo" name="cueresper_per_codigo" type="hidden" value="111108446657">
+            <input data-val="true" data-val-number="El valor debe ser numérico" id="paginaActual" name="paginaActual" type="hidden" value="1">
+            <input data-val="true" data-val-number="El valor debe ser numérico" id="cue_numero_preguntas_paginas" name="cue_numero_preguntas_paginas" type="hidden" value="5">
+            <input data-val="true" data-val-number="El valor debe ser numérico" data-val-range="El valor debe ser mayor o igual a 0" data-val-range-max="2147483647" data-val-range-min="0" id="cue_tiempo_disponible" name="cue_tiempo_disponible" type="hidden" value="180">
+            <input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The Total Paginas field is required." id="TotalPaginas" name="TotalPaginas" type="hidden" value="1">
+            <input data-val="true" data-val-length="El campo puede tener máximo 200 caracteres" data-val-length-max="200" data-val-required="El campo es requerido" id="cue_titulo" name="cue_titulo" type="hidden" value="Parcial IV" maxlength="200">
+            <input data-val="true" data-val-required="The Revisar preguntas field is required." id="cue_aplica_resumen" name="cue_aplica_resumen" type="hidden" value="False">
+            <input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The matpla_consecutivo P field is required." id="matpla_consecutivoP" name="matpla_consecutivoP" type="hidden" value="0">
+            <input data-val="true" data-val-required="The Ver resultados field is required." id="cue_aplica_resultados" name="cue_aplica_resultados" type="hidden" value="False">
+            <input data-val="true" data-val-date="El valor debe ser una fecha válida" data-val-required="The Fecha Inicio U T C field is required." id="FechaInicioUTC" name="FechaInicioUTC" type="hidden" value="23/11/2020 11:33:09 p.m.">
+
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperpre_consecutivo P field is required." id="Preguntas_0__cueresperpre_consecutivoP" name="Preguntas[0].cueresperpre_consecutivoP" type="hidden" value="0"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cuepre_consecutivo P field is required." id="Preguntas_0__cuepre_consecutivoP" name="Preguntas[0].cuepre_consecutivoP" type="hidden" value="2734"><input id="Preguntas_0__cuepre_tipo" name="Preguntas[0].cuepre_tipo" type="hidden" value="1"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The total_count field is required." id="Preguntas_0__total_count" name="Preguntas[0].total_count" type="hidden" value="5">
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="pull-left">
+            <span class="badge">1</span>
+        </div>
+        <div class="preDescripcion">
+            <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Los Pasivos se clasifican en el Balance General de acuerdo</span></span></span></p>
+
+            <div class="pull-right" style="margin-top: -23px;">
+            </div>
+        </div>
+        <div class="row opciones">
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_0__Respuestas_0__cueopcres_consecutivoP" name="Preguntas[0].Respuestas[0].cueopcres_consecutivoP" type="hidden" value="11586"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_0__Respuestas_0__cueresperopcres_consecutivoP" name="Preguntas[0].Respuestas[0].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_0__Respuestas_0__respuesta_seleccionada" name="Preguntas[0].Respuestas[0].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2734" id="radio2734">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Su Disponibilidad</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_0__Respuestas_1__cueopcres_consecutivoP" name="Preguntas[0].Respuestas[1].cueopcres_consecutivoP" type="hidden" value="11587"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_0__Respuestas_1__cueresperopcres_consecutivoP" name="Preguntas[0].Respuestas[1].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_0__Respuestas_1__respuesta_seleccionada" name="Preguntas[0].Respuestas[1].respuesta_seleccionada" type="hidden" value="true">                                    <input type="radio" name="radio2734" id="radio2734">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">&nbsp;Su Exigibilidad</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_0__Respuestas_2__cueopcres_consecutivoP" name="Preguntas[0].Respuestas[2].cueopcres_consecutivoP" type="hidden" value="11588"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_0__Respuestas_2__cueresperopcres_consecutivoP" name="Preguntas[0].Respuestas[2].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_0__Respuestas_2__respuesta_seleccionada" name="Preguntas[0].Respuestas[2].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2734" id="radio2734">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Su Solidez</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_0__Respuestas_3__cueopcres_consecutivoP" name="Preguntas[0].Respuestas[3].cueopcres_consecutivoP" type="hidden" value="11589"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_0__Respuestas_3__cueresperopcres_consecutivoP" name="Preguntas[0].Respuestas[3].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_0__Respuestas_3__respuesta_seleccionada" name="Preguntas[0].Respuestas[3].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2734" id="radio2734">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Su Volatilidad</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_0__Respuestas_4__cueopcres_consecutivoP" name="Preguntas[0].Respuestas[4].cueopcres_consecutivoP" type="hidden" value="11590"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_0__Respuestas_4__cueresperopcres_consecutivoP" name="Preguntas[0].Respuestas[4].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_0__Respuestas_4__respuesta_seleccionada" name="Preguntas[0].Respuestas[4].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2734" id="radio2734">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Su capacidad de convertirse en dinero</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+        </div>
+    </div>
+</div><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperpre_consecutivo P field is required." id="Preguntas_1__cueresperpre_consecutivoP" name="Preguntas[1].cueresperpre_consecutivoP" type="hidden" value="0"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cuepre_consecutivo P field is required." id="Preguntas_1__cuepre_consecutivoP" name="Preguntas[1].cuepre_consecutivoP" type="hidden" value="2735"><input id="Preguntas_1__cuepre_tipo" name="Preguntas[1].cuepre_tipo" type="hidden" value="1"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The total_count field is required." id="Preguntas_1__total_count" name="Preguntas[1].total_count" type="hidden" value="5">
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="pull-left">
+            <span class="badge">2</span>
+        </div>
+        <div class="preDescripcion">
+            <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">La Utilidad de un periodo contable es</span></span></span></p>
+
+            <div class="pull-right" style="margin-top: -23px;">
+            </div>
+        </div>
+        <div class="row opciones">
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_1__Respuestas_0__cueopcres_consecutivoP" name="Preguntas[1].Respuestas[0].cueopcres_consecutivoP" type="hidden" value="11591"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_1__Respuestas_0__cueresperopcres_consecutivoP" name="Preguntas[1].Respuestas[0].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_1__Respuestas_0__respuesta_seleccionada" name="Preguntas[1].Respuestas[0].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2735" id="radio2735">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Activos menos Pasivos</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_1__Respuestas_1__cueopcres_consecutivoP" name="Preguntas[1].Respuestas[1].cueopcres_consecutivoP" type="hidden" value="11592"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_1__Respuestas_1__cueresperopcres_consecutivoP" name="Preguntas[1].Respuestas[1].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_1__Respuestas_1__respuesta_seleccionada" name="Preguntas[1].Respuestas[1].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2735" id="radio2735">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Gastos más Ingresos</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_1__Respuestas_2__cueopcres_consecutivoP" name="Preguntas[1].Respuestas[2].cueopcres_consecutivoP" type="hidden" value="11593"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_1__Respuestas_2__cueresperopcres_consecutivoP" name="Preguntas[1].Respuestas[2].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_1__Respuestas_2__respuesta_seleccionada" name="Preguntas[1].Respuestas[2].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2735" id="radio2735">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Pasivo menos Capital</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_1__Respuestas_3__cueopcres_consecutivoP" name="Preguntas[1].Respuestas[3].cueopcres_consecutivoP" type="hidden" value="11594"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_1__Respuestas_3__cueresperopcres_consecutivoP" name="Preguntas[1].Respuestas[3].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_1__Respuestas_3__respuesta_seleccionada" name="Preguntas[1].Respuestas[3].respuesta_seleccionada" type="hidden" value="true">                                    <input type="radio" name="radio2735" id="radio2735">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Ingresos mayor que Costos y Gastos</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_1__Respuestas_4__cueopcres_consecutivoP" name="Preguntas[1].Respuestas[4].cueopcres_consecutivoP" type="hidden" value="11595"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_1__Respuestas_4__cueresperopcres_consecutivoP" name="Preguntas[1].Respuestas[4].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_1__Respuestas_4__respuesta_seleccionada" name="Preguntas[1].Respuestas[4].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2735" id="radio2735">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Pasivos más Gastos.</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+        </div>
+    </div>
+</div><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperpre_consecutivo P field is required." id="Preguntas_2__cueresperpre_consecutivoP" name="Preguntas[2].cueresperpre_consecutivoP" type="hidden" value="0"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cuepre_consecutivo P field is required." id="Preguntas_2__cuepre_consecutivoP" name="Preguntas[2].cuepre_consecutivoP" type="hidden" value="2736"><input id="Preguntas_2__cuepre_tipo" name="Preguntas[2].cuepre_tipo" type="hidden" value="1"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The total_count field is required." id="Preguntas_2__total_count" name="Preguntas[2].total_count" type="hidden" value="5">
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="pull-left">
+            <span class="badge">3</span>
+        </div>
+        <div class="preDescripcion">
+            <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Si una empresa tiene activos por $20 millones, Pasivos por $3 millones y las utilidades que se adeudan a socios (por distribuir) es de $8 millones, El valor del patrimonio es de</span></span></span></p>
+
+            <div class="pull-right" style="margin-top: -23px;">
+            </div>
+        </div>
+        <div class="row opciones">
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_2__Respuestas_0__cueopcres_consecutivoP" name="Preguntas[2].Respuestas[0].cueopcres_consecutivoP" type="hidden" value="11596"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_2__Respuestas_0__cueresperopcres_consecutivoP" name="Preguntas[2].Respuestas[0].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_2__Respuestas_0__respuesta_seleccionada" name="Preguntas[2].Respuestas[0].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2736" id="radio2736">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">$9 millones</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_2__Respuestas_1__cueopcres_consecutivoP" name="Preguntas[2].Respuestas[1].cueopcres_consecutivoP" type="hidden" value="11597"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_2__Respuestas_1__cueresperopcres_consecutivoP" name="Preguntas[2].Respuestas[1].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_2__Respuestas_1__respuesta_seleccionada" name="Preguntas[2].Respuestas[1].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2736" id="radio2736">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">$23 millones</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_2__Respuestas_2__cueopcres_consecutivoP" name="Preguntas[2].Respuestas[2].cueopcres_consecutivoP" type="hidden" value="11598"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_2__Respuestas_2__cueresperopcres_consecutivoP" name="Preguntas[2].Respuestas[2].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_2__Respuestas_2__respuesta_seleccionada" name="Preguntas[2].Respuestas[2].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2736" id="radio2736">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">$8 millones</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_2__Respuestas_3__cueopcres_consecutivoP" name="Preguntas[2].Respuestas[3].cueopcres_consecutivoP" type="hidden" value="11599"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_2__Respuestas_3__cueresperopcres_consecutivoP" name="Preguntas[2].Respuestas[3].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_2__Respuestas_3__respuesta_seleccionada" name="Preguntas[2].Respuestas[3].respuesta_seleccionada" type="hidden" value="true">                                    <input type="radio" name="radio2736" id="radio2736">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">$17 millones</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_2__Respuestas_4__cueopcres_consecutivoP" name="Preguntas[2].Respuestas[4].cueopcres_consecutivoP" type="hidden" value="11600"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_2__Respuestas_4__cueresperopcres_consecutivoP" name="Preguntas[2].Respuestas[4].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_2__Respuestas_4__respuesta_seleccionada" name="Preguntas[2].Respuestas[4].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2736" id="radio2736">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">$20 millones</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+        </div>
+    </div>
+</div><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperpre_consecutivo P field is required." id="Preguntas_3__cueresperpre_consecutivoP" name="Preguntas[3].cueresperpre_consecutivoP" type="hidden" value="0"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cuepre_consecutivo P field is required." id="Preguntas_3__cuepre_consecutivoP" name="Preguntas[3].cuepre_consecutivoP" type="hidden" value="2737"><input id="Preguntas_3__cuepre_tipo" name="Preguntas[3].cuepre_tipo" type="hidden" value="1"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The total_count field is required." id="Preguntas_3__total_count" name="Preguntas[3].total_count" type="hidden" value="5">
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="pull-left">
+            <span class="badge">4</span>
+        </div>
+        <div class="preDescripcion">
+            <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Una compañía cuenta con la siguiente información al 31 de Diciembre de 2020: Activos $260, Pasivos $95, Capital $110, Ingresos $120, Costos $45, Gastos $20; el patrimonio al cierre del periodo es:</span></span></span></p>
+
+            <div class="pull-right" style="margin-top: -23px;">
+            </div>
+        </div>
+        <div class="row opciones">
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_3__Respuestas_0__cueopcres_consecutivoP" name="Preguntas[3].Respuestas[0].cueopcres_consecutivoP" type="hidden" value="11601"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_3__Respuestas_0__cueresperopcres_consecutivoP" name="Preguntas[3].Respuestas[0].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_3__Respuestas_0__respuesta_seleccionada" name="Preguntas[3].Respuestas[0].respuesta_seleccionada" type="hidden" value="true">                                    <input type="radio" name="radio2737" id="radio2737">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">$165</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_3__Respuestas_1__cueopcres_consecutivoP" name="Preguntas[3].Respuestas[1].cueopcres_consecutivoP" type="hidden" value="11602"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_3__Respuestas_1__cueresperopcres_consecutivoP" name="Preguntas[3].Respuestas[1].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_3__Respuestas_1__respuesta_seleccionada" name="Preguntas[3].Respuestas[1].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2737" id="radio2737">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">$55</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_3__Respuestas_2__cueopcres_consecutivoP" name="Preguntas[3].Respuestas[2].cueopcres_consecutivoP" type="hidden" value="11603"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_3__Respuestas_2__cueresperopcres_consecutivoP" name="Preguntas[3].Respuestas[2].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_3__Respuestas_2__respuesta_seleccionada" name="Preguntas[3].Respuestas[2].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2737" id="radio2737">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">$160</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_3__Respuestas_3__cueopcres_consecutivoP" name="Preguntas[3].Respuestas[3].cueopcres_consecutivoP" type="hidden" value="11604"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_3__Respuestas_3__cueresperopcres_consecutivoP" name="Preguntas[3].Respuestas[3].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_3__Respuestas_3__respuesta_seleccionada" name="Preguntas[3].Respuestas[3].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2737" id="radio2737">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">$185</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_3__Respuestas_4__cueopcres_consecutivoP" name="Preguntas[3].Respuestas[4].cueopcres_consecutivoP" type="hidden" value="11605"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_3__Respuestas_4__cueresperopcres_consecutivoP" name="Preguntas[3].Respuestas[4].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_3__Respuestas_4__respuesta_seleccionada" name="Preguntas[3].Respuestas[4].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2737" id="radio2737">
+                            </div>
+                            <div class="respuesta">
+                                <p><span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">$135</span></span></span></p>
+
+                            </div>
+                        </div>
+                </div>
+        </div>
+    </div>
+</div><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperpre_consecutivo P field is required." id="Preguntas_4__cueresperpre_consecutivoP" name="Preguntas[4].cueresperpre_consecutivoP" type="hidden" value="0"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cuepre_consecutivo P field is required." id="Preguntas_4__cuepre_consecutivoP" name="Preguntas[4].cuepre_consecutivoP" type="hidden" value="2738"><input id="Preguntas_4__cuepre_tipo" name="Preguntas[4].cuepre_tipo" type="hidden" value="1"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The total_count field is required." id="Preguntas_4__total_count" name="Preguntas[4].total_count" type="hidden" value="5">
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="pull-left">
+            <span class="badge">5</span>
+        </div>
+        <div class="preDescripcion">
+            <p>Sin bienes&nbsp;&nbsp;constituidos por efectivo y otros convertibles en dinero en menos de un año<br>
+&nbsp;</p>
+
+            <div class="pull-right" style="margin-top: -23px;">
+            </div>
+        </div>
+        <div class="row opciones">
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_4__Respuestas_0__cueopcres_consecutivoP" name="Preguntas[4].Respuestas[0].cueopcres_consecutivoP" type="hidden" value="11606"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_4__Respuestas_0__cueresperopcres_consecutivoP" name="Preguntas[4].Respuestas[0].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_4__Respuestas_0__respuesta_seleccionada" name="Preguntas[4].Respuestas[0].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2738" id="radio2738">
+                            </div>
+                            <div class="respuesta">
+                                <p>Activos Intangibles</p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_4__Respuestas_1__cueopcres_consecutivoP" name="Preguntas[4].Respuestas[1].cueopcres_consecutivoP" type="hidden" value="11607"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_4__Respuestas_1__cueresperopcres_consecutivoP" name="Preguntas[4].Respuestas[1].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_4__Respuestas_1__respuesta_seleccionada" name="Preguntas[4].Respuestas[1].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2738" id="radio2738">
+                            </div>
+                            <div class="respuesta">
+                                <p>Activos Fijos</p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_4__Respuestas_2__cueopcres_consecutivoP" name="Preguntas[4].Respuestas[2].cueopcres_consecutivoP" type="hidden" value="11608"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_4__Respuestas_2__cueresperopcres_consecutivoP" name="Preguntas[4].Respuestas[2].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_4__Respuestas_2__respuesta_seleccionada" name="Preguntas[4].Respuestas[2].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2738" id="radio2738">
+                            </div>
+                            <div class="respuesta">
+                                <p>Activos Diferidos</p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_4__Respuestas_3__cueopcres_consecutivoP" name="Preguntas[4].Respuestas[3].cueopcres_consecutivoP" type="hidden" value="11609"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_4__Respuestas_3__cueresperopcres_consecutivoP" name="Preguntas[4].Respuestas[3].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_4__Respuestas_3__respuesta_seleccionada" name="Preguntas[4].Respuestas[3].respuesta_seleccionada" type="hidden" value="false">                                    <input type="radio" name="radio2738" id="radio2738">
+                            </div>
+                            <div class="respuesta">
+                                <p>Activos No Corrientes</p>
+
+                            </div>
+                        </div>
+                </div>
+<input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueopcres_consecutivo P field is required." id="Preguntas_4__Respuestas_4__cueopcres_consecutivoP" name="Preguntas[4].Respuestas[4].cueopcres_consecutivoP" type="hidden" value="11610"><input data-val="true" data-val-number="El valor debe ser numérico" data-val-required="The cueresperopcres_consecutivo P field is required." id="Preguntas_4__Respuestas_4__cueresperopcres_consecutivoP" name="Preguntas[4].Respuestas[4].cueresperopcres_consecutivoP" type="hidden" value="0">                <div class="col-lg-12" style="margin-bottom: 15px;">
+                        <div class="check-control clearfix">
+                            <div class="control pull-left">
+<input data-val="true" data-val-required="The respuesta_seleccionada field is required." id="Preguntas_4__Respuestas_4__respuesta_seleccionada" name="Preguntas[4].Respuestas[4].respuesta_seleccionada" type="hidden" value="true">                                    <input type="radio" name="radio2738" id="radio2738">
+                            </div>
+                            <div class="respuesta">
+                                <p>Activos Corrientes</p>
+
+                            </div>
+                        </div>
+                </div>
+        </div>
+    </div>
+</div>        </div>
+    </div>
+    <style>
+        .contenedor-preguntas img {
+            max-width: 100%;
+        }
+    </style>
+        <div class="clearfix">
+
+                <button type="submit" class="pull-right btn btn-primary q10button submitResumen" data-loading-text="Cargando..." data-href="" data-resumen="False">Finalizar</button>
+        </div>
+</form>
+
+</div>
+
+<style>
+    body {
+        background-color: #E9EAED;
+    }
+
+    .encabezado {
+        margin-bottom: 25px;
+        padding-bottom: 15px;
+        border-bottom: 1px solid #E9EAED;
+    }
+
+    .icono {
+        font-size: 30px;
+        color: white;
+        padding: 4px;
+        border-radius: 4px;
+        margin-right: 8px;
+        width: 36px;
+        text-align: center;
+    }
+
+    .details:not(.panel-body) {
+        margin-top: 40px;
+        border: 1px solid #E9EAED;
+        padding: 10px;
+        border-radius: 4px;
+        background-color: #f5f5f5;
+    }
+
+    .details > .row > div {
+        margin-bottom: 0px !important;
+    }
+
+    .badge {
+        background-color: #5cb85c;
+        margin-left: 0px;
+    }
+
+    .preDescripcion {
+        padding-left: 30px;
+        margin-bottom: 20px;
+    }
+
+        .preDescripcion p {
+            margin-bottom: 0px;
+        }
+
+    .opciones .fa-times, .opciones .fa-check {
+        font-size: 18px;
+    }
+
+    .opciones .check-control {
+        padding-right: 10px;
+    }
+
+        .opciones .check-control > .control {
+            margin-right: 10px;
+            min-width: 18px;
+            min-height: 18px;
+        }
+
+        .opciones .check-control > .respuesta {
+            overflow: auto;
+        }
+
+            .opciones .check-control > .respuesta p, .opciones .vistaDetalle > .check-control p {
+                margin-bottom: 0px;
+            }
+
+    .opciones div:not(.vistaDetalle):not(.vistaResultados) > div.check-control > div.respuesta {
+        cursor: pointer;
+    }
+
+    .match {
+        padding-bottom: 0px;
+    }
+
+        .match > .row:not(:last-child) > .col-lg-12 {
+            border-bottom: 1px solid #eee;
+            margin-bottom: 10px;
+        }
+
+    .control-replace {
+        width: 215px !important;
+        display: inline-block;
+        margin-bottom: 0px !important;
+        margin-left: 4px !important;
+        margin-right: 4px;
+    }
+
+    #listaPreguntas > div:last-child > .panel-default {
+        margin-bottom: 0px;
+    }
+
+    .selected {
+        color: #31708f;
+        background-color: #d9edf7;
+        border-color: #bce8f1 !important;
+    }
+
+    .optionsMatch {
+        padding: 6px 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin-bottom: 10px;
+        min-width: 42px;
+        text-align: center;
+    }
+</style>
+<input id="checkDuplicate" class="hide" type="hidden" value="already loaded">
+
+
+        </div>
+            <div class="visible-lg visible-md ads-col" style="margin-top:4px; margin-right:4px; position:absolute; right:0;">
+
+
+                
+
+<div class="adds body">
+        <div id="div-gpt-ad-1552496341866-0" style="height: 600px; width: 160px;">
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1552496341866-0'); });
+            </script>
+        <div id="google_ads_iframe_/6622005/Jack_Estudiantes_0__container__" style="border: 0pt none; width: 160px; height: 600px;"></div></div>
+</div>
+
+            </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+<form id="frm-log" target="_blank" method="POST" action="https://site4.q10.com/Autenticar">
+    <input type="hidden" name="hash">
+</form>
+
+
+
+
+    <div class="modal fade" id="master-modal"></div>
+    <div class="modal fade" id="secundary-modal"></div>
+    <div class="modal fade" id="extra-modal" style="margin-top: 40px;"></div>
+        <footer class="hidden-print">
+            <div class="container-fluid">
+                <p>
+                    © Q10 2020
+
+                </p>
+            </div>
+        </footer>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-56605977-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <script src="./Cuestionarios_files/jquery"></script>
+
+
+    <script src="./Cuestionarios_files/jqueryval"></script>
+
+    <script src="./Cuestionarios_files/jqueryglobalize"></script>
+
+    <script src="./Cuestionarios_files/bootstrap"></script>
+
+    <script src="./Cuestionarios_files/bootstrap-slider(1)"></script>
+
+    <script src="./Cuestionarios_files/cookiesjs"></script>
+
+
+    <script src="./Cuestionarios_files/typeahead"></script>
+
+    <script src="./Cuestionarios_files/bootstrap-select(1)"></script>
+
+    <script src="./Cuestionarios_files/selectize(1)"></script>
+
+    <script src="./Cuestionarios_files/formatCurrency"></script>
+
+    <script src="./Cuestionarios_files/notifications(1)"></script>
+
+    <script src="./Cuestionarios_files/hubs"></script>
+    <script src="./Cuestionarios_files/moment"></script>
+
+    <script src="./Cuestionarios_files/datetimepicker(1)"></script>
+
+    <script src="./Cuestionarios_files/fileupload"></script>
+
+    <script src="./Cuestionarios_files/jwplayer"></script>
+
+    <script type="text/javascript">
+        var CKEDITOR_BASEPATH = '/scripts/ckeditor/';
+        jwplayer.key = "l0vKm7hl9NQ3ebhycA8ZsYUQv3zuJB4hgq1k0sF3YEw=";
+    </script>
+
+    <script src="./Cuestionarios_files/ckeditor"></script>
+
+    <script src="./Cuestionarios_files/others"></script>
+
+    <script src="./Cuestionarios_files/sweet-alert(1)"></script>
+
+
+    <script src="./Cuestionarios_files/jqueryfancybox(1)"></script>
+
+    <script src="./Cuestionarios_files/main(1)"></script>
+
+    <script src="./Cuestionarios_files/guidedtour"></script>
+
+    <script src="./Cuestionarios_files/knockout"></script>
+
+
+    <script>
+        $("document").ready(function () {
+            $('#link-masker').remove();
+        });
+    </script>
+    <script>
+        jack.dateFormat = 'D/MM/YYYY';
+        jack.timeFormat = 'h:mm a';
+    </script>
+        <script>
+
+            jack.setLocaleExtend('es-CO', 'COP', 0, false, 'es-CO');
+            jack.setCustomsText({"Hoja de Vida":"Hoja de Vida","Registrar Acudiente":"Registrar Acudiente","Período":"Período","Programas":"Programas","Tipos Indicadores Logros":"Tipos Indicadores Desempeño","Cancelado por inasistencia":"Cancelado por inasistencia","Indicadores de Logros":"Indicadores de Desempeño","Municipio":"Municipio","Sede Jornada":"Sede Jornada","Indicador de Logro":"Indicador de Desempeño","Asignaturas":"Asignaturas","Recuperación":"Recuperación","Periodos":"Períodos","Curso Rotativo":"Curso Rotativo","Areas - Asignaturas":"Areas - Asignaturas","Homologación":"Homologación","Prog":"Prog","Nivel":"Nivel","Tipos de Seguimientos Práctica":"Tipos de Seguimientos Práctica","Coordinador":"Coordinador","Requisitos de Grado":"Requisitos de Grado","La Jornada":"La Jornada","Acudientes":"Familiares","La Asignatura":"La Asignatura","Práctica Laboral":"Práctica Laboral","Paz y Salvo":"Paz y Salvo","El Programa":"El Programa","Tipos Pensión":"Tipos Cuotas","Porcentaje de CREE":"Porcentaje de CREE","Niveles":"Niveles","Evaluaciones Cursos Rotativos":"Evaluaciones Cursos Rotativos","Asignatura":"Asignatura","Requisitos":"Requisitos","Cuantitativo":"Cuantitativo","Nit":"NIT","Las Asignaturas":"Las Asignaturas","Pensión":"Cuota","Homologada":"Homologada","Tipos Indicadores de Logros":"Tipos Indicadores de Desempeño","Prácticas Laborales":"Prácticas Laborales","Homologar":"Homologar","Prácticas":"Prácticas","Evaluaciones":"Evaluaciones","Parámetros Evaluación Prácticas":"Parámetros Evaluación Prácticas","Pagaré":"Pagaré","Sede - Jornada":"Sede - Jornada","Barrio":"Barrio","Sedes - Jornadas":"Sedes - Jornadas","Rec":"Rec","Requisito de Matrícula":"Requisito de Matrícula","Recuperaciones":"Recuperaciones","Requisito de Grado":"Requisito de Grado","Periodo":"Período","Acudiente":"Familiar","Cursos Rotativos":"Cursos Rotativos","Programa":"Programa","Estudiantes por asesor de Prácticas":"Estudiantes por asesor de Prácticas","Jornada":"Jornada","Estudiantes por Estado de Practica":"Estudiantes por Estado de Practica","Notas Crédito":"Notas Crédito","Copiar Indicadores de Logro":"Copiar Indicadores de Desempeño","Departamento":"Departamento","Las Jornadas":"Las Jornadas","Estudiantes por Estado de Practica - Competencias":"Estudiantes por Estado de Practica - Competencias","Práctica":"Práctica","Tipo Indicador":"Tipo Indicador","Imprimir Información Práctica":"Imprimir Información Práctica","Requisitos de Matrícula":"Requisitos de Matrícula","Nota Crédito":"Nota Crédito","Encuestas Prácticas Laborales":"Encuestas Prácticas Laborales","Jornadas":"Jornadas","Sedes - Jornadas - Programas":"Sedes - Jornadas - Programas"});
+            jack.setCurrencyCulture({"COP":"es-CO","USD":"en-US","EUR":"es-ES","PAB":"es-PA","PEN":"es-PE","CRC":"es-CR","GTQ":"es-GT","ARS":"es-AR","CLP":"es-CL","MXN":"es-MX","BOB":"es-BO","PYG":"es-PY","UYU":"es-UY","HNL":"es-HN","DOP":"es-DO","VEF":"es-VE","NIO":"es-NI"});
+
+        </script>
+
+
+
+    
+    
+
+    <script>
+
+         $('.seleccion-rol').on("click", function (e) {
+             var id = $(this).data('id');
+
+             $.ajax({
+                 url: '/cambiarrol',
+                 data: { id: id },
+                 type: 'POST',
+                 success: function () {
+                     location.replace('/');
+                 },
+                 error: jack.handleAjaxError
+             });
+
+             e.preventDefault();
+         });
+
+         $('.seleccion-estudiante').on("click", function (e) {
+             var id = $(this).data('id');
+
+             $.ajax({
+                 url: '/CambiarEstudianteReferido',
+                 data: { id: id },
+                 type: 'POST',
+                 success: function () {
+                     location.reload();
+                 },
+                 error: jack.handleAjaxError
+             });
+
+             e.preventDefault();
+         });
+
+         $(".search-form.censa").on("click", ".search-btn", function (e) {
+             $(".search-form.censa").submit();
+             return false;
+         });
+
+         $(".search-form.formPers").on("click", ".search-btn", function (e) {
+             //Se obtiene el texto para buscar por el
+             $this = $(this);
+             var texto = $(".search-form.formPers").find("input.searchPers.tt-input").val();
+             var url = $this.attr("href") + (texto ? "?texto=" + texto : "");
+             $this.attr("href", url);
+         });
+
+         $("input[name='text-search']").on("focus", function () {
+             console.log("focus");
+             $("div.footer-censa").addClass("vis");
+         });
+
+         $("input[name='text-search']").on("focusout", function () {
+             console.log("focusout");
+             setTimeout(function () {
+                 $("div.footer-censa").removeClass("vis");
+             }, 500);
+         });
+
+         $(".search-form.censa").on("submit", function () {
+
+             var busqueda = $("input[name='text-search']").val();
+             console.log("submit");
+
+             console.log("busqueda", busqueda);
+
+             if (busqueda) {
+                 $.ajax({
+                     url: '/Personas/BuscarPersonaIdentificacion',
+                     data: { txt: busqueda },
+                     type: 'Get',
+                     success: function (data) {
+                         if (data) {
+                             if (data.indexOf("Lista") != -1) {
+                                 jack.openModal(data);
+                             } else {
+                                 location.href = data;
+                             }
+                         } else {
+                             jack.alert("No se encontró ninguna persona con la identificación especificada.")
+                         }
+
+                         $("input[name='text-search']").val(null);
+
+                     }
+                 });
+             } else {
+                 jack.alert("Por favor ingrese una identificación para realizar la búsqueda.");
+             }
+             return false;
+         });
+
+    </script>
+
+<script src="./Cuestionarios_files/notificaciones"></script>
+
+
+    
+
+    <script src="./Cuestionarios_files/mundialR"></script>
+
+
+    
+<script src="./Cuestionarios_files/estadisticasVirtual"></script>
+        <script>
+            var persona = "111108446657";
+            var consecutivo = "353";
+            var tipo = "Q";
+            var segundos = "20";
+
+            jack.estadisticas.setParameters(consecutivo, tipo, persona, segundos);
+        </script>
+
+    <script src="./Cuestionarios_files/responderCuestionario"></script>
+
+
+    <script>
+
+
+        function onSuccess(result, status, xhr) {
+            if (xhr && xhr.getResponseHeader("Location") !== null && xhr.getResponseHeader("Location") !== "") {
+                location.href = xhr.getResponseHeader("Location");
+            }
+            else {
+                window.scrollTo(0, 0);
+                $.validator.unobtrusive.parse("#wizard");
+                jack.addSelectPickers("#wizard");
+                jack.addTooltips("#wizard");
+                jack.addVideoPlayers("#wizard");
+            }
+
+            if (xhr && xhr.getResponseHeader("Modal") !== null && xhr.getResponseHeader("Modal") !== "") {
+                jack.openModal(xhr.getResponseHeader("Modal"));
+            }
+
+            rescue.InitPopover();
+        }
+
+
+
+        $("#wizard").on("click", "input[type='radio']", function (e) {
+            var radio = $(this);
+            var name = radio.attr('name');
+            var radios = $('input[name="' + name + '"]').prev().val('false');
+            radio.prev().val('true');
+
+        });
+
+        $("#wizard").on("change", "select", function (e) {
+            var select = $(this);
+            if (select.val() !== '') {
+                select.closest('.row').prev().val('true')
+            } else {
+                select.closest('.row').prev().val('false')
+            }
+        });
+
+        $("#wizard").on("click", "#btnAnterior", function () {
+            $("#tipo").val("N");
+            var pagina = $("#pagina").val();
+            if (pagina === null || pagina === "") {
+                $("#pagina").val($("#TotalPaginas").val());
+            }
+            $("#direccion").val("-1");
+        });
+
+        $("#wizard").on("click", "#btnSiguiente", function () {
+            $("#tipo").val("N");
+            $("#direccion").val("1");
+        });
+
+        $("#wizard").on("click", "div:not(.vistaDetalle):not(.vistaResultados) > div > div.respuesta", function (e) {
+
+            var control = $(this).prev().find("input[type='radio'],input[type='checkbox']")
+
+            if (control.is(":checked") === false) {
+                control.prop("checked", true);
+            } else
+                if (control.is("[type='radio']") === false) {
+                    control.prop("checked", false)
+                }
+
+            if (control.is("[type='radio']")) {
+                control.trigger("click");
+            }
+        });
+
+        function onError(data) {
+            jack.showErrorMessage("Ocurrio un error desconocido");
+        }
+
+        $("#wizard").on("click", "button.submitResumen", function (e) {
+            if ($("#pagina").val() === '') {
+                $("#tipo").val("S");
+            }
+            $("#direccion").val("0");
+        });
+
+        $("button[data-url]").on("click", function (e) {
+            e.preventDefault();
+            var url = $(this).data("url");
+            $(this).button('loading');
+            jack.load("wizard", url, function () { jack.addSelectPickers("#wizard"); rescue.InitTime(); });
+        });
+
+    </script>
+
+
+
+        <script src="./Cuestionarios_files/zendesk-chat.js.descarga"></script>
+            <script type="text/javascript">
+                try {
+                    
+                    jack.zendesk.initSesionValues('HELKIN HERNAN CHACON CARDENAS',
+                        'helkinchacon.10@outlook.com',
+                        "FUNDACIÓN UNIVERSITARIA INTERNACIONAL DEL TRÓPICO AMERICANO",
+                        '903470054278',
+                        'ab13c2e5-c1d3-4095-a82e-1f999579b282');
+                } catch (e) {
+
+                }
+            </script>
+
+    <script>
+        function successChangeInst(data) {
+            if (data.hash) {
+                $("#frm-log").attr("action", data.action);
+                $("#frm-log").find("input").val(data.hash);
+                $("#frm-log").removeAttr("target");
+                $("#frm-log").submit();
+            }
+            else {
+                jack.openModal(data.url);
+            }
+        }
+    </script>
+
+
+
+</body></html>

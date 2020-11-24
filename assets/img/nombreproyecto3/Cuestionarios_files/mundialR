@@ -1,0 +1,43 @@
+(function (app, $) {
+    app.q10_mundialR = app.q10_mundialR || {};
+
+    var mundialHub;
+
+    var showGame = function (tk) {
+        jack.openModal('/Q10/Q10EsMundial/' + tk + '/Inicio', 'extra-modal');
+    };
+
+    var showGame2 = function () {
+        jack.openModal('/Q10/Q10EsMundial/' + jack.guid() + '/Inicio2', 'extra-modal');
+    };
+
+    var initHub = function () {
+        mundialHub = $.connection.q10EsMundialHub;
+        mundialHub.client.openModalGame = showGame;
+        mundialHub.client.openModalGame2 = showGame2;
+        $.connection.hub.start()
+            .done(function () { console.log('Now connected2, connection ID=' + $.connection.hub.id); })
+            .fail(function () { console.log('Could not Connect!'); });
+
+        $.connection.hub.error(function (error) {
+            console.log('SignalrAdapter: ' + error);
+        });
+
+        //$.connection.hub.disconnected(function () {
+        //    console.log('disconnected!!');
+        //    setTimeout(function () {
+        //        $.connection.hub.start()
+        //        .done(function () { console.log('Reconnect, connection ID=' + $.connection.hub.id); })
+        //        .fail(function () { console.log('Could not Connect!'); });
+        //    }, 5000); // Restart connection after 5 seconds.you can set the time based your requirement
+        //});
+    };
+
+    app.q10_mundialR.init = function (state) {
+        console.log(state);
+        if (state == "true") {
+            initHub();
+        }
+    };
+
+}(window.jack = window.jack || {}, jQuery));

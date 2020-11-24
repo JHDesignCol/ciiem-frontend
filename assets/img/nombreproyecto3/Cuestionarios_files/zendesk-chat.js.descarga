@@ -1,0 +1,107 @@
+﻿(function (app, $) {
+
+    app.zendesk = app.zendesk || {};
+    
+    app.zendesk.initSesionValues = function (user, email, institucion, codigo, aplentId) {
+        $zopim(function () {
+            try {
+
+                //$zopim.livechat.clearAll();
+                //$zopim(function () {
+                //    $zopim.livechat.authenticate({
+                //        jwtFn: function (callback) {
+                //            fetch('/Zendesk/GetToken').then(function (res) {
+                //                res.text().then(function (jwt) {
+                //                    callback(jwt);
+                //                });
+                //            });
+                //        }
+                //    });
+                //});
+
+                $zopim.livechat.setName(user);
+                $zopim.livechat.setEmail(email);
+
+                $zopim.livechat.setNotes(institucion);
+                $zopim.livechat.appendNotes("Código Entidad = " + codigo);
+                $zopim.livechat.appendNotes("AplentID = " + aplentId);
+                $zopim.livechat.setOnStatus(badgeChat);
+            } catch (ex) {
+                console.error(ex);
+                debugger;
+            }
+        });
+
+        $zopim(function () {
+            $zopim.livechat.sendVisitorPath();
+        });
+    };
+
+    app.zendesk.popout2 = function () {
+        //$zopim.livechat.window.show();
+        if (localStorage.getItem('help-box-state') == "open") {
+            jack.ayuda.toggleCollapse();
+        }
+
+        $zopim.livechat.window.show();
+
+        return false;
+    }
+
+    app.zendesk.popout = function () {
+        debugger;
+        $zopim.livechat.window.openPopout();
+        //if (localStorage.getItem('help-box-state') == "open") {
+        //    jack.ayuda.toggleCollapse();
+        //}
+        //window.open("/Ayuda/Chat/Abrir", "ZendeskSupport", 'width=370,height=460,scrollbars=yes');
+
+        return false;
+    }
+
+    app.zendesk.show = function () {
+        $zopim(function () {
+            $zopim.livechat.window.show();
+        });
+    }
+
+    function badgeChat(status) {
+
+        //El del cuadro de ayuda
+        if ($("#btnIniciarConversacion2").length > 0) {
+            if (status == 'online') {
+                $("#btnIniciarConversacion2")
+                    .removeClass("btn-default")
+                    .addClass("btn-success")
+                    .html("<i class='fa fa-comment' style='position: absolute; top: 8px'></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iniciar chat");
+            }
+            else if (status == 'offline') {
+                $("#btnIniciarConversacion2")
+                    .removeClass("btn-success")
+                    .addClass("btn-default")
+                    .attr("title", "Fuera de Servicio")
+                    .html("<i class='fa fa-comment' style='position: absolute; top: 8px'></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deje su mensaje");
+            }
+        }
+
+        //El del menú
+        if ($("#btnIniciarConversacion3").length > 0) {
+
+            if (status == 'online') {
+                $("#btnIniciarConversacion3").find("i").css({ color: "#5CB85C" });
+            }
+            else if (status == 'offline') {
+                $("#btnIniciarConversacion3").find("i").css({ color: "#BBB" });
+            }
+        }
+
+        if (status == 'online') {
+            localStorage.setItem('stateChat', true);
+        }
+        else if (status == 'offline') {
+            localStorage.setItem('stateChat', false);
+        }
+    }
+
+
+}(window.jack = window.jack || {}, jQuery));
